@@ -1,26 +1,5 @@
 [
     {
-        "id": 1528884534561107968,
-        "text": "@denicmarko Só queira saber o nome desse tema pra eu colocar no meu Visual Studio Code ahsaushuashua",
-        "retweet_count": 0,
-        "favorite_count": 0,
-        "in_reply_to_status_id": 1525417532856885248,
-        "user": {
-            "id": 914611643019120640,
-            "name": "Augusto ",
-            "screen_name": "vulgoaugusto",
-            "location": "Brasil",
-            "description": "Desenvolvedor web, dono de empresa e apaixonado por piano.",
-            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-            "profile_image_url": "http://pbs.twimg.com/profile_images/1514475165916225537/6tivJ6n4_normal.jpg",
-            "followers_count": 56,
-            "friends_count": 49
-        },
-        "use": true,
-        "supplement": "",
-        "ja_text": "@denicmarkoSóqueirasaberonome desse tema pra eu colocar no meu Visual Studio Code ahsaushuashua"
-    },
-    {
         "id": 1528842390089646080,
         "text": "RT @YannBrds: @denicmarko Thank you Marko. I would add these:\n\nTailwindCSS\n⇢ https://t.co/rvgodD8qVJ\n\nWeb dev\n⇢ https://t.co/FGIlCM8SV9\n\nVu…",
         "retweet_count": 11,
@@ -38,7 +17,7 @@
             "friends_count": 298
         },
         "use": true,
-        "supplement": "",
+        "supplement": "こちらの方は追加で有効なリンクを提供してくれたようだ。",
         "ja_text": "RT @YannBrds：@denicmarkoMarkoありがとうございます。私はこれらを追加します：\n\nTailwindCSS\n⇢https：//t.co/rvgodD8qVJ\n\nWeb開発者\n⇢https：//t.co/FGIlCM8SV9\n\nVu…"
     },
     {
