@@ -1,5 +1,11 @@
 [
     {
+        "id" : 1529130574211911682,
+        "title" : "フロントエンド,バックエンド,データベース,クラウド,デザイナーの必要な技術",
+        "img" : "",
+        "supplement" : ""
+    },
+    {
         "id": 1529575093017399296,
         "text": "@aptlearn_io Thank you for this great opportunity. God bless",
         "retweet_count": 0,
@@ -58,8 +64,8 @@
             "followers_count": 413,
             "friends_count": 562
         },
-        "title": "",
-        "supplement": "",
+        "title": "クラウドについてはさらに必要な技術がある",
+        "supplement": "AWSやAzureなどさまざまなクラウドサービスの知識が必要とされるようです。",
         "ja_text": "@aptlearn_ioクラウド：AWS、Azure、Google Cloud、Digital Ocean"
     },
     {
@@ -184,8 +190,8 @@
             "followers_count": 5,
             "friends_count": 24
         },
-        "title": "",
-        "supplement": "",
+        "title": "それでもクラウドはAWS",
+        "supplement": "クラウドについての知識はAWSのみで良いという意見も。確かにシェア率は高いですからね。",
         "ja_text": "@aptlearn_ioクラウド：AWS"
     },
     {
@@ -415,7 +421,7 @@
             "followers_count": 724,
             "friends_count": 2163
         },
-        "title": "",
+        "title": "フロントエンドのフレームワークにAngularは必要という意見も",
         "supplement": "",
         "ja_text": "@aptlearn_ioフロントエンドAngular"
     },
@@ -436,8 +442,8 @@
             "followers_count": 11221,
             "friends_count": 78
         },
-        "title": "",
-        "supplement": "",
+        "title": "しかしながら、エンジニアにとっての時間の流れは早い",
+        "supplement": "2Q(半年)で全ての技術が役に立たなくなる可能性もなくはないという",
         "ja_text": "@aptlearn_ioこれらすべてが2四半期で完全に役に立たなくなったと想像してみてください"
     },
     {
@@ -478,7 +484,7 @@
             "followers_count": 370,
             "friends_count": 244
         },
-        "title": "",
+        "title": "クラウドとブロックチェーン",
         "supplement": "",
         "ja_text": "@aptlearn_io率直な意見が必要です。\n\nクラウドエンジニアリングの学習とブロックチェーン開発のどちらが優れているのか、そしてその理由は何ですか？"
     },
@@ -814,8 +820,8 @@
             "followers_count": 171,
             "friends_count": 314
         },
-        "title": "",
-        "supplement": "",
+        "title": "デザイナーの意見",
+        "supplement": "デザイナーにとってのエディターはある意味Adobeなのでしょうか",
         "ja_text": "@aptlearn_ioモーションデザイナーの試合。 Adobe After Effects、イラスト、C4D、Moho"
     },
     {
@@ -919,8 +925,8 @@
             "followers_count": 111,
             "friends_count": 645
         },
-        "title": "",
-        "supplement": "",
+        "title": "フロントエンドの声",
+        "supplement": "ここではangularではなくReactを指定しているようです。",
         "ja_text": "@aptlearn_ioフロントエンド：Html、Css、JavaScript、React"
     },
     {
