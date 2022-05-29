@@ -1,5 +1,11 @@
 [
     {
+        "id" : 1530575425662881792,
+        "title" : "エンジニアのOS論争 windows,linux,mac",
+        "description" : "エンジニアのos論争は終わりを知りません。今回は「windows linux mac 殲滅するならどのOS」という議論。",
+        "img" : "https://www.linuxadictos.com/wp-content/uploads/linux-vs-mac-vs-windows1-830x492.jpg"
+    },
+    {
         "id": 1530867240685293568,
         "text": "@LinuxSeb Linux, because I don't understand",
         "retweet_count": 0,
@@ -16,8 +22,8 @@
             "followers_count": 24,
             "friends_count": 213
         },
-        "title": "",
-        "supplement": "",
+        "title": "その１ Linux",
+        "supplement": "よくわからないけどLinux",
         "ja_text": "@LinuxSeb Linux、わからないので"
     },
     {
@@ -58,8 +64,8 @@
             "followers_count": 0,
             "friends_count": 11
         },
-        "title": "",
-        "supplement": "",
+        "title": "Linuxは必要という意見",
+        "supplement": "BSDベースのシステムにLinuxは置き換えることができるらしい。(macはlinuxの下位互換的な意見か？)",
         "ja_text": "@LinuxSebLinux。 BSDベースのシステムに簡単に置き換えることができるため"
     },
     {
@@ -79,8 +85,8 @@
             "followers_count": 10,
             "friends_count": 3
         },
-        "title": "",
-        "supplement": "",
+        "title": "Windowsは嫌われている",
+        "supplement": "理由は言わずもがな",
         "ja_text": "@LinuxSeb Windows、あなたはすでに理由を知っています。"
     },
     {
@@ -100,8 +106,8 @@
             "followers_count": 239,
             "friends_count": 288
         },
-        "title": "",
-        "supplement": "",
+        "title": "Linuxはいらないという意見",
+        "supplement": "Linuxはフリーで使える上にwindowsで使用するアプリケーションが使えないことも多い。",
         "ja_text": "@LinuxSeb私はそれらをすべて持っています\nLinux...毎日使用するアプリケーションによるサポートが少ないためです。"
     },
     {
@@ -520,8 +526,8 @@
             "followers_count": 32,
             "friends_count": 7
         },
-        "title": "",
-        "supplement": "",
+        "title": "macとlinuxについて",
+        "supplement": "macとlinuxについてはほとんど違いはないという意見",
         "ja_text": "@LinuxSeb MacはすでにLinuxをベースにしており、それらの間に大きな違いはありません🤷🏻‍♀️"
     },
     {
@@ -688,8 +694,8 @@
             "followers_count": 100,
             "friends_count": 294
         },
-        "title": "",
-        "supplement": "",
+        "title": "Macはいらないという意見",
+        "supplement": "macは故障したら特定のツールでしか治せない。というのはネックらしい",
         "ja_text": "@LinuxSeb Mac =＆gt;排除\nエコシステムクローズ。故障させた製品。特定のツールなしでは修復不可能（すべて…https：//t.co/eUW4UqnEpQ"
     },
     {
@@ -772,8 +778,8 @@
             "followers_count": 26,
             "friends_count": 121
         },
-        "title": "",
-        "supplement": "",
+        "title": "windowsはいらないという意見",
+        "supplement": "存在ごと抹消せよという意見も",
         "ja_text": "@LinuxSebWindows。それを排除するだけではありません。存在からそれを拭きます。ウィンドウの痕跡をすべて破壊する"
     },
     {
