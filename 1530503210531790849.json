@@ -1,5 +1,10 @@
 [
     {
+        "title" : "Linux vs Windows vs Mac OS 戦いの勝者は...",
+        "supplement" : "日本でこの話題を出すとほぼ炎上しますね。windowかmacかlinuxか。海外ではどのOSが好評なのでしょうか",
+        "id" : 1530503210531790849
+    },
+    {
         "id": 1530699752211247105,
         "text": "@denicmarko Definitely Mac.  But keep a Windows rig around for gaming.",
         "retweet_count": 0,
@@ -16,8 +21,8 @@
             "followers_count": 23,
             "friends_count": 213
         },
-        "title": "",
-        "supplement": "",
+        "title": "mac派の意見",
+        "supplement": "ただしwindowsはゲームをするのに向いているとのこと",
         "ja_text": "@denicmarko間違いなくMac。ただし、ゲーム用にWindowsリグを用意しておいてください。"
     },
     {
@@ -37,7 +42,7 @@
             "followers_count": 267,
             "friends_count": 134
         },
-        "title": "",
+        "title": "mac派閥2",
         "supplement": "",
         "ja_text": "@denicmarkoMac🖥…常に❤️そして永遠に♾"
     },
@@ -58,8 +63,8 @@
             "followers_count": 9709,
             "friends_count": 10151
         },
-        "title": "",
-        "supplement": "",
+        "title": "linux派閥1",
+        "supplement": "ubuntuはlinxディストリビューションの中でもダントツで人気ですよね",
         "ja_text": "RT @mueenulit：@denicmarko Ubuntu（Linux💕）"
     },
     {
@@ -100,8 +105,8 @@
             "followers_count": 583,
             "friends_count": 1460
         },
-        "title": "",
-        "supplement": "",
+        "title": "linux派閥2",
+        "supplement": "windowsをアップデートするのは労力がかかりますからね...",
         "ja_text": "@denicmarko最近ほぼ完全にLinux\n\n最近Windowsをインストールし続ける理由はほとんどありません..ただのカップル…https：//t.co/Un6D8PAeNk"
     },
     {
@@ -163,8 +168,8 @@
             "followers_count": 281,
             "friends_count": 1245
         },
-        "title": "",
-        "supplement": "",
+        "title": "windows派閥第一村人発見",
+        "supplement": "windows派閥はtwitter界隈では少数派のようですね",
         "ja_text": "@denicmarko WINDOWS 10"
     },
     {
@@ -205,7 +210,7 @@
             "followers_count": 629,
             "friends_count": 38
         },
-        "title": "",
+        "title": "中立派閥の意見",
         "supplement": "",
         "ja_text": "@denicmarkoそれらすべて"
     },
@@ -226,8 +231,8 @@
             "followers_count": 161,
             "friends_count": 441
         },
-        "title": "",
-        "supplement": "",
+        "title": "企業ではwindowsが多い",
+        "supplement": "ただし個人のPCではmacを使用している人が多い",
         "ja_text": "@denicmarkoLinux-私のプライベートコンピュータ上\nWindows-企業のラップトップ上\nMacOS-空き時間にサポートしているコンピュータ"
     },
     {
@@ -352,8 +357,8 @@
             "followers_count": 106,
             "friends_count": 358
         },
-        "title": "",
-        "supplement": "",
+        "title": "ニッチなOSをあげる人も",
+        "supplement": "ちなみにKali Linuxはペネトレーションテスト用のツールが詰まったLinuxディストリビューションです。",
         "ja_text": "@denicmarko Kali Linux、BackBox、BlackArch[ペネトレーションテスト-ウォードライビング];テイルズ、ホニックス、セプター、コダチ[匿名性];…https：//t.co/7KEfZVggnh"
     },
     {
@@ -793,8 +798,8 @@
             "followers_count": 9,
             "friends_count": 116
         },
-        "title": "",
-        "supplement": "",
+        "title": "macの凄さ",
+        "supplement": "macは箱から出した瞬間に使える。linuxはUSBなどを使用してインストールしなければなりませんからね...",
         "ja_text": "@denicmarko Macは箱から出してすぐに機能し、必要なNixツールがほとんどすべて揃っていたのでいつもMacを使用していました…https：//t.co/L7Oy1z7e31"
     },
     {
