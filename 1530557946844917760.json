@@ -1,5 +1,11 @@
 [
     {
+        "id": 1530557946844917760,
+        "title" : "linuxのディレクトリ構造について",
+        "description" : "linuxのディレクトリ構造やそのディレクトリ名は複雑に見えますが、全て由来があります。",
+        "img" : "https://pbs.twimg.com/media/FT2iVlVXEAMqMPp?format=jpg&name=4096x4096"
+    },
+    {
         "id": 1530699524943101953,
         "text": "@xtremepentest Thanks 🙃",
         "retweet_count": 0,
@@ -58,7 +64,7 @@
             "followers_count": 5,
             "friends_count": 38
         },
-        "title": "",
+        "title": "そのほかのlinux知識について",
         "supplement": "",
         "ja_text": "@xtremepentestうん男😉👍"
     },
@@ -163,8 +169,8 @@
             "followers_count": 217,
             "friends_count": 1349
         },
-        "title": "",
-        "supplement": "",
+        "title": "Linux vs Nvidia",
+        "supplement": "Linuxの生みの親であるリーナスはNvidiaに中指を立てたことで有名である。",
         "ja_text": "RT @Septire：@xtremepentest @LinuxSeb Nvidiaを使用していない限り、すべてのドライバーはすでにLinuxにインストールされているので、…"
     },
     {
@@ -856,8 +862,8 @@
             "followers_count": 155,
             "friends_count": 452
         },
-        "title": "",
-        "supplement": "",
+        "title": "なぜだか炎上している",
+        "supplement": "linuxを広めているだけなのに...",
         "ja_text": "@xtremepentest@LinuxSeb多くの返信があなたを攻撃していますが...\n尊敬する\n\nLinuxでこれを送っていても…https：//t.co/65HTONvqXy"
     },
     {
