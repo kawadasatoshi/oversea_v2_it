@@ -1,5 +1,11 @@
 [
     {
+        "id": 1530485341714411520,
+        "title" : "遊んで覚えるプログラミングゲーム集",
+        "description" : "今回は遊んでいるだけで自然とプログラミングを覚えてしまうオンラインゲームを集めてみました。",
+        "img" : ""
+    },
+    {
         "id": 1530490982889771012,
         "text": "@abeltxor i hope it's just a coincidence. https://t.co/U9i48Y7HgW",
         "retweet_count": 0,
@@ -79,7 +85,7 @@
             "followers_count": 20394,
             "friends_count": 223
         },
-        "title": "",
+        "title": "ゲーム1: CodeMonkey",
         "supplement": "",
         "ja_text": "9.CodeMonkey\n\nhttps://t.co/iGoqqJoag8"
     },
@@ -100,7 +106,7 @@
             "followers_count": 20394,
             "friends_count": 223
         },
-        "title": "",
+        "title": "ゲーム2：Crunch zilla",
         "supplement": "",
         "ja_text": "6.クランチジラ\n\nCrunchzillaは、プログラミングに人々を興奮させるインタラクティブなチュートリアルを提供します。コードで遊ぶ…https：//t.co/Kj0DpLetAr"
     },
@@ -121,8 +127,8 @@
             "followers_count": 20394,
             "friends_count": 223
         },
-        "title": "",
-        "supplement": "",
+        "title": "Screeps",
+        "supplement": "Javascriptを学べるオープンソースのゲーム",
         "ja_text": "7.スクリープ\n\nプログラマー向けのオープンソースゲームです。 JavaScriptを記述してコロニーを制御します。\n\nhttps://t.co/5Y0zK62ht6"
     },
     {
@@ -142,8 +148,8 @@
             "followers_count": 20394,
             "friends_count": 223
         },
-        "title": "",
-        "supplement": "",
+        "title": "Flexbox Froggy",
+        "supplement": "こちらはCSSのflex boxを理解するためのゲーム",
         "ja_text": "8.FlexboxFroggy-CSSフレックスボックスを学習するためのゲーム\n\n https://t.co/OEiESY2ED9"
     },
     {
@@ -163,8 +169,8 @@
             "followers_count": 20394,
             "friends_count": 223
         },
-        "title": "",
-        "supplement": "",
+        "title": "Grid Garden",
+        "supplement": "CSSのGridの概念を覚えるためのゲーム",
         "ja_text": "10.グリッドガーデン-CSSグリッドを学習するためのゲーム\n\nhttps://t.co/3buVvfuaM0"
     },
     {
@@ -184,9 +190,9 @@
             "followers_count": 20394,
             "friends_count": 223
         },
-        "title": "",
-        "supplement": "",
-        "ja_text": "5.エレベーター佐賀\n\nエレベーター佐賀は、エレベーターの移動とt…https://t.co/uZlNvrh435に関連する課題でJavaScriptの知識をテストします"
+        "title": "Elevator Saga",
+        "supplement": "Javascriptの知識をテストするエレベーターゲームです。",
+        "ja_text": "5.エレベーター saga\n\nエレベーター佐賀は、エレベーターの移動とt…https://t.co/uZlNvrh435に関連する課題でJavaScriptの知識をテストします"
     },
     {
         "id": 1530485349251567617,
@@ -205,8 +211,8 @@
             "followers_count": 20394,
             "friends_count": 223
         },
-        "title": "",
-        "supplement": "",
+        "title": "JS Robot",
+        "supplement": "ロボットを制御するタイプのJavascriptを学べるゲーム",
         "ja_text": "3.JSロボット\n\nプラットフォームゲームをプレイしてJavaScriptを学ぶ：ロボットを制御してコインを収集し、障害物を避けて…https://t.co/pc3V4MMYiw"
     },
     {
@@ -226,8 +232,8 @@
             "followers_count": 20394,
             "friends_count": 223
         },
-        "title": "",
-        "supplement": "",
+        "title": "Codewars",
+        "supplement": "他の人と競えるギミックがあるゲーム",
         "ja_text": "4.コードウォーズ\n\nコードウォーズは、他の人とのチャレンジでトレーニングすることにより、スキルを向上させるのに役立ちます。彼らは巨大な品種を提供しています…https：//t.co/bzQ9oKxn2H"
     },
     {
@@ -247,8 +253,8 @@
             "followers_count": 20394,
             "friends_count": 223
         },
-        "title": "",
-        "supplement": "",
+        "title": "CodeCombat",
+        "supplement": "学生用のゲームで再生とコードの記述を繰り返して学習するタイプ",
         "ja_text": "2. CodeCombat\n\nCodeCombatは、学生がコードを再生および記述しながら学習を受け入れるのに役立つように設計されています。\n\nhttps://t.co/L2PKeclwhY"
     },
     {
@@ -268,8 +274,8 @@
             "followers_count": 20394,
             "friends_count": 223
         },
-        "title": "",
-        "supplement": "",
+        "title": "CodinGame",
+        "supplement": "最もプログラミング言語の数が多いゲーム。JsやRubyなども含まれているのが特徴。",
         "ja_text": "1. CodinGame\n\nCodinGameは、JavaScript、Ruby、…https://t.co/2lhIsJiwdcを含む25以上のプログラミング言語で教育ゲームを提供します"
     }
 ]
