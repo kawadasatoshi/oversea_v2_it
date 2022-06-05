@@ -1,7 +1,8 @@
 [
     {
-        "title": "csaba_kissi",
-        "id": "1532083449829511168"
+        "title": "Javascriptのセミコロン「;」はつけた方がいいのか？",
+        "id": "1532083449829511168",
+        "supplement" : "Javascriptのセミコロンを見たことがない人は多い。（実際筆者もつけない派である）"
     },
     {
         "id": 1532086559092137985,
@@ -21,7 +22,7 @@
             "followers_count": 67,
             "friends_count": 108
         },
-        "title": "t",
+        "title": "つける派１",
         "supplement": "",
         "ja_text": "@csaba_kissiPrettierはします"
     },
@@ -43,7 +44,7 @@
             "followers_count": 24434,
             "friends_count": 1131
         },
-        "title": "t",
+        "title": "",
         "supplement": "",
         "ja_text": "@csaba_kissi@scrimbaは私が追加したいものです"
     },
@@ -65,7 +66,7 @@
             "followers_count": 14345,
             "friends_count": 236
         },
-        "title": "t",
+        "title": "",
         "supplement": "",
         "ja_text": "@csaba_kissi私はCourseraから学ぶのが大好きです。優れた学習プラットフォームでもあると思います。🙌"
     },
@@ -87,7 +88,7 @@
             "followers_count": 2698,
             "friends_count": 801
         },
-        "title": "t",
+        "title": "セミコロンつける派2",
         "supplement": "",
         "ja_text": "@csaba_kissiもちろんhttps://t.co/KsfN1FFF3U"
     },
@@ -109,7 +110,7 @@
             "followers_count": 4436,
             "friends_count": 1475
         },
-        "title": "t",
+        "title": "セミコロン付ける派3",
         "supplement": "",
         "ja_text": "@csaba_kissiはい。なくても気分が悪い"
     },
@@ -131,7 +132,7 @@
             "followers_count": 140,
             "friends_count": 47
         },
-        "title": "t",
+        "title": "",
         "supplement": "",
         "ja_text": "@csaba_kissi Dev .to\nMedium .com\nTwitter .com\nGeeksforgeeks .com\nCousera .org\nCodeacademy .com\nCodepen .io\nフロントエンド…https：//t.co/8ovvC189Nn"
     },
@@ -153,8 +154,8 @@
             "followers_count": 292,
             "friends_count": 351
         },
-        "title": "t",
-        "supplement": "",
+        "title": "特定の表現のためには必要",
+        "supplement": "例えば一行に二つの命令を書き込みたい時がある。その時はセミコロンを使用せざるを得ない場合もある。",
         "ja_text": "@csaba_kissi特定の表現には必要なので、私はそれらを使用します。\n\n+Rustのような他の言語では…https：//t.co/ztZXUij7ha"
     },
     {
@@ -175,7 +176,7 @@
             "followers_count": 13860,
             "friends_count": 388
         },
-        "title": "t",
+        "title": "付けない派1",
         "supplement": "",
         "ja_text": "@csaba_kissiいいえ。\nそして、私が積極的にコーディングしている過去2年間、これに関して問題はありません。\nそして私はそれが…https：//t.co/G2hHDWxfxKだったと思います"
     },
@@ -197,7 +198,7 @@
             "followers_count": 86925,
             "friends_count": 733
         },
-        "title": "t",
+        "title": "",
         "supplement": "",
         "ja_text": "😱あなたは先延ばしですか？\n\n先延ばしをやめるために私が自分で使っている簡単なトリックを紹介します。\n\nhttps://t.co/ZcAN14AvHT"
     },
@@ -219,7 +220,7 @@
             "followers_count": 64,
             "friends_count": 789
         },
-        "title": "t",
+        "title": "セミコロン付ける派4",
         "supplement": "",
         "ja_text": "@csaba_kissiはい、ほとんどの場合。セミコロンがないと、それは間違っているように感じます。"
     },
@@ -241,7 +242,7 @@
             "followers_count": 28,
             "friends_count": 109
         },
-        "title": "t",
+        "title": "C#の開発者がセミコロンをつけるかどうかを選択制にしている",
         "supplement": "",
         "ja_text": "@csaba_kissi C＃開発者がセミコロンがオプションであることについて読んでいるhttps://t.co/cV2hJMIdd4"
     },
@@ -266,49 +267,5 @@
         "title": "t",
         "supplement": "",
         "ja_text": "カイルからのこのガイドには、Web開発者またはWebデザイナーとしてフリーランスをマスターするために必要なすべてが含まれています\n\nhttps://t.co/Bkrvr9EEzf"
-    },
-    {
-        "id": 1531904312859066368,
-        "text": "@csaba_kissi Twitter?",
-        "retweet_count": 2,
-        "favorite_count": 61,
-        "in_reply_to_status_id": 1531893052725510145,
-        "created_at": "Wed Jun 01 07:43:44 +0000 2022",
-        "user": {
-            "id": 856155592578158592,
-            "name": "Pratham",
-            "screen_name": "Prathkum",
-            "location": "New Delhi, India",
-            "description": "Developer Advocate at @Rapid_API • Building @MentorWebDev • https://t.co/kmFuBxyRS2 • https://t.co/5pf0rLmmSc",
-            "profile_background_image_url": null,
-            "profile_image_url": "http://pbs.twimg.com/profile_images/1517223519314010113/S0XaR2oc_normal.jpg",
-            "followers_count": 224459,
-            "friends_count": 772
-        },
-        "title": "t",
-        "supplement": "",
-        "ja_text": "@csaba_kissi Twitter？"
-    },
-    {
-        "id": 1532112045017075712,
-        "text": "@csaba_kissi Idk, is it just me but writing without them feels like something will break, it just don't feel right 😂😂",
-        "retweet_count": 0,
-        "favorite_count": 65,
-        "in_reply_to_status_id": 1532083449829511168,
-        "created_at": "Wed Jun 01 21:29:11 +0000 2022",
-        "user": {
-            "id": 1280447201697771526,
-            "name": "Madza 🇺🇦🙏",
-            "screen_name": "madzadev",
-            "location": "All Projects 👉",
-            "description": "2.9M+ views on YouTube, 1.4M+ listens on SoundCloud, 900K+ reads on DEV 📈\nCreator of DevTunes FM (210K+ plays) and DevQuizzes (130K+ answers) 🚀",
-            "profile_background_image_url": null,
-            "profile_image_url": "http://pbs.twimg.com/profile_images/1526471322762715136/w25QtNnl_normal.jpg",
-            "followers_count": 1266,
-            "friends_count": 138
-        },
-        "title": "t",
-        "supplement": "",
-        "ja_text": "@csaba_kissi Idk、それは私だけですか、しかしそれらなしで書くことは何かが壊れているように感じます、それはちょうど正しく感じません😂😂"
     }
 ]
