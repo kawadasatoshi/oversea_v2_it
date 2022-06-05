@@ -1,0 +1,50 @@
+[
+    {
+        "title": "tanya_shapiro",
+        "id": "1533105806220083200"
+    },
+    {
+        "id": 1533113007907250176,
+        "text": "To add - many job descriptions for data analyst/scientist roles include a bullet on SQL knowledge. \n\nSo students pa… https://t.co/V3UV2s0ROx",
+        "retweet_count": 2,
+        "favorite_count": 21,
+        "in_reply_to_status_id": 1533105806220083200,
+        "created_at": "Sat Jun 04 15:46:39 +0000 2022",
+        "user": {
+            "id": 379406678,
+            "name": "Tanya Shapiro",
+            "screen_name": "tanya_shapiro",
+            "location": "Florida",
+            "description": "Data Science & Data Viz · Warning: Tweets May Contain Graphic Content 📊 · #RStats Enthusiast · Python Padawan · Peloton Junkie · She/Her 🏳️‍🌈",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1503173957217923074/340KG8SH_normal.jpg",
+            "followers_count": 4653,
+            "friends_count": 927
+        },
+        "title": "t",
+        "supplement": "",
+        "ja_text": "追加する-データアナリスト/科学者の役割の多くの職務記述書には、SQLの知識に関する箇条書きが含まれています。\n\nだから学生は…https：//t.co/V3UV2s0ROx"
+    },
+    {
+        "id": 1533168082046242816,
+        "text": "@tanya_shapiro For starters.\nFirst SQL\n2nd Data structures (any language)\n3rd Python\n4th Numpy, pandas with statist… https://t.co/Ejvy8VE7mr",
+        "retweet_count": 16,
+        "favorite_count": 54,
+        "in_reply_to_status_id": 1533105806220083200,
+        "created_at": "Sat Jun 04 19:25:30 +0000 2022",
+        "user": {
+            "id": 1207357382436589568,
+            "name": "🌠Avijit Biswas🇮🇳",
+            "screen_name": "avizyt",
+            "location": "Kolkata, India",
+            "description": "💫Data science and Artificial Intelligence enthusiast. Tweeting on Python, ML, JavaScript.",
+            "profile_background_image_url": null,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1522888840301940736/Jbp8gC3y_normal.jpg",
+            "followers_count": 209,
+            "friends_count": 367
+        },
+        "title": "t",
+        "supplement": "",
+        "ja_text": "@tanya_shapiro初心者向け。\n最初のSQL\n2番目のデータ構造（任意の言語）\n3番目のPython\n4番目のNumpy、国家主義者のパンダ…https://t.co/Ejvy8VE7mr"
+    }
+]
