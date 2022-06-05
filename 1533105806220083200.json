@@ -1,7 +1,8 @@
 [
     {
-        "title": "tanya_shapiro",
-        "id": "1533105806220083200"
+        "title": "データサイエンスティストのSQL",
+        "id": "1533105806220083200",
+        "ja_text" : "データサイエンスのブートキャンプがPythonのレッスンに全面的に参加し、SQLのレッスンにほとんどまたはまったく時間を割いていないようです。IMO、SQLの前にPythonを学ぶことは、歩く前に実行する方法を学ぶことに似ています。でも多分それは私だけです🤷🏻‍♀️"
     },
     {
         "id": 1533113007907250176,
@@ -21,8 +22,8 @@
             "followers_count": 4653,
             "friends_count": 927
         },
-        "title": "t",
-        "supplement": "",
+        "title": "データサイエンティストはPythonだけではなく、SQLも学ばなければならない",
+        "supplement": "加えて... データアナリストの役割の多くの職務記述書には、SQLの知識に関する箇条書きが含まれています。",
         "ja_text": "追加する-データアナリスト/科学者の役割の多くの職務記述書には、SQLの知識に関する箇条書きが含まれています。\n\nだから学生は…https：//t.co/V3UV2s0ROx"
     },
     {
@@ -43,8 +44,8 @@
             "followers_count": 209,
             "friends_count": 367
         },
-        "title": "t",
-        "supplement": "",
+        "title": "SQLを学んだ後の機械学習のロードマップ",
+        "supplement": "手始めに。 最初のSQLを学んだ後に、2番目にデータ構造（任意の言語）。3番目にPython。4番目のNumpy、統計付きのpandas,Numpy、Scipyを使用した5番目の線形代数。6番目にSklearn、TensorFlow、またはPytorch、ウェイトとバイアスを使用した7番目にモデルのオーケストレーションと開発最後にkaggleまたはプロジェクトを実行します。",
         "ja_text": "@tanya_shapiro初心者向け。\n最初のSQL\n2番目のデータ構造（任意の言語）\n3番目のPython\n4番目のNumpy、国家主義者のパンダ…https://t.co/Ejvy8VE7mr"
     }
 ]
