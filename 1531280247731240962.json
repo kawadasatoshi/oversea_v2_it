@@ -1,0 +1,138 @@
+[
+    {
+        "title": "BleepinComputer",
+        "id": "1531280247731240962"
+    },
+    {
+        "id": 1531297694974726145,
+        "text": "@Ionut_Ilascu The flaw was discovered by @nao_sec while checking Virus Total for files using CVE-2021-40444.\n\nThey… https://t.co/nTvxtRjZh4",
+        "retweet_count": 14,
+        "favorite_count": 27,
+        "in_reply_to_status_id": 1531297635931508736,
+        "created_at": "Mon May 30 15:33:15 +0000 2022",
+        "user": {
+            "id": 50026664,
+            "name": "BleepingComputer",
+            "screen_name": "BleepinComputer",
+            "location": "New York",
+            "description": "Breaking technology news, security guides, and tutorials that help you get the most from your computer. DMs are open. Feel free to use it to send story tips.",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/542789702365892608/is5mSep2_normal.png",
+            "followers_count": 145135,
+            "friends_count": 108
+        },
+        "title": "t",
+        "supplement": "",
+        "ja_text": "@Ionut_Ilascuこの欠陥は、CVE-2021-40444を使用してファイルのVirusTotalをチェックしているときに@nao_secによって発見されました。\n\n彼ら…https：//t.co/nTvxtRjZh4"
+    },
+    {
+        "id": 1531297635931508736,
+        "text": "@Ionut_Ilascu This is a serious issue that can be exploited from a lower-privilege account, evades Windows Defender… https://t.co/5r9Y0RDnE5",
+        "retweet_count": 13,
+        "favorite_count": 30,
+        "in_reply_to_status_id": 1531297561742540800,
+        "created_at": "Mon May 30 15:33:01 +0000 2022",
+        "user": {
+            "id": 50026664,
+            "name": "BleepingComputer",
+            "screen_name": "BleepinComputer",
+            "location": "New York",
+            "description": "Breaking technology news, security guides, and tutorials that help you get the most from your computer. DMs are open. Feel free to use it to send story tips.",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/542789702365892608/is5mSep2_normal.png",
+            "followers_count": 145135,
+            "friends_count": 108
+        },
+        "title": "t",
+        "supplement": "",
+        "ja_text": "@Ionut_Ilascuこれは、特権の低いアカウントから悪用される可能性のある深刻な問題であり、WindowsDefenderを回避します…https：//t.co/5r9Y0RDnE5"
+    },
+    {
+        "id": 1531297561742540800,
+        "text": "@Ionut_Ilascu The new bug uses Microsoft Diagnostic Tool (MSDT) to execute binaries or scripts almost without trigg… https://t.co/seHtAlQCJU",
+        "retweet_count": 10,
+        "favorite_count": 30,
+        "in_reply_to_status_id": 1531280247731240962,
+        "created_at": "Mon May 30 15:32:43 +0000 2022",
+        "user": {
+            "id": 50026664,
+            "name": "BleepingComputer",
+            "screen_name": "BleepinComputer",
+            "location": "New York",
+            "description": "Breaking technology news, security guides, and tutorials that help you get the most from your computer. DMs are open. Feel free to use it to send story tips.",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/542789702365892608/is5mSep2_normal.png",
+            "followers_count": 145135,
+            "friends_count": 108
+        },
+        "title": "t",
+        "supplement": "",
+        "ja_text": "@Ionut_Ilascu新しいバグは、Microsoft Diagnostic Tool（MSDT）を使用して、ほとんどトリガーなしでバイナリまたはスクリプトを実行します…https://t.co/seHtAlQCJU"
+    },
+    {
+        "id": 1531297812897583104,
+        "text": "@Ionut_Ilascu @nao_sec Multiple researchers replicated the bug on several MS Office versions:\n\n- Office 2013\n- Offi… https://t.co/PB34nHkCmP",
+        "retweet_count": 13,
+        "favorite_count": 34,
+        "in_reply_to_status_id": 1531297694974726145,
+        "created_at": "Mon May 30 15:33:43 +0000 2022",
+        "user": {
+            "id": 50026664,
+            "name": "BleepingComputer",
+            "screen_name": "BleepinComputer",
+            "location": "New York",
+            "description": "Breaking technology news, security guides, and tutorials that help you get the most from your computer. DMs are open. Feel free to use it to send story tips.",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/542789702365892608/is5mSep2_normal.png",
+            "followers_count": 145135,
+            "friends_count": 108
+        },
+        "title": "t",
+        "supplement": "",
+        "ja_text": "@Ionut_Ilascu @nao_sec複数の研究者が、いくつかのMSOfficeバージョンでバグを複製しました。\n\n-Office 2013\n-オフィ…https：//t.co/PB34nHkCmP"
+    },
+    {
+        "id": 1531297895978307584,
+        "text": "@Ionut_Ilascu @nao_sec While the Protected View feature in Office does issue an alert for potentially malicious doc… https://t.co/glRcje9ITp",
+        "retweet_count": 13,
+        "favorite_count": 38,
+        "in_reply_to_status_id": 1531297812897583104,
+        "created_at": "Mon May 30 15:34:03 +0000 2022",
+        "user": {
+            "id": 50026664,
+            "name": "BleepingComputer",
+            "screen_name": "BleepinComputer",
+            "location": "New York",
+            "description": "Breaking technology news, security guides, and tutorials that help you get the most from your computer. DMs are open. Feel free to use it to send story tips.",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/542789702365892608/is5mSep2_normal.png",
+            "followers_count": 145135,
+            "friends_count": 108
+        },
+        "title": "t",
+        "supplement": "",
+        "ja_text": "@Ionut_Ilascu @nao_sec Officeの保護されたビュー機能は、潜在的に悪意のあるドキュメントに対してアラートを発行しますが…https://t.co/glRcje9ITp"
+    },
+    {
+        "id": 1531313665181351939,
+        "text": "@Ionut_Ilascu @nao_sec It appears that Microsoft received a report about the so-called Follina vulnerability in Apr… https://t.co/9bCkP12kPr",
+        "retweet_count": 53,
+        "favorite_count": 120,
+        "in_reply_to_status_id": 1531297895978307584,
+        "created_at": "Mon May 30 16:36:42 +0000 2022",
+        "user": {
+            "id": 50026664,
+            "name": "BleepingComputer",
+            "screen_name": "BleepinComputer",
+            "location": "New York",
+            "description": "Breaking technology news, security guides, and tutorials that help you get the most from your computer. DMs are open. Feel free to use it to send story tips.",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/542789702365892608/is5mSep2_normal.png",
+            "followers_count": 145135,
+            "friends_count": 108
+        },
+        "title": "t",
+        "supplement": "",
+        "ja_text": "@Ionut_Ilascu @nao_sec Microsoftは、4月にいわゆるFollinaの脆弱性に関するレポートを受け取ったようです…https：//t.co/9bCkP12kPr"
+    }
+]
