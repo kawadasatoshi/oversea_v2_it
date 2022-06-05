@@ -1,7 +1,76 @@
 [
     {
-        "title": "priya_garg2",
+        "title": "Javascriptの学習方法5選",
+        "description" : " JavaScriptの学習は簡単です-それを行うためにコンピュータサイエンスの学部プログラムに登録する必要はありません。",
+        "supplement" : " JavaScriptの学習は簡単です-それを行うためにコンピュータサイエンスの学部プログラムに登録する必要はありません。",
         "id": "1531311989733007360"
+    },
+    {
+        "id": 1531311997232349185,
+        "text": "2.  Books -\n\nThose who wish to learn JavaScript quickly will find the books listed below particularly useful.\n\n+ Ja… https://t.co/PUSQfg45eu",
+        "retweet_count": 4,
+        "favorite_count": 28,
+        "in_reply_to_status_id": 1531311994787143680,
+        "created_at": "Mon May 30 16:30:05 +0000 2022",
+        "user": {
+            "id": 1238703920706277380,
+            "name": "Priya_garg",
+            "screen_name": "priya_garg2",
+            "location": "India",
+            "description": "21.\nFrontend Web Developer. \nConcepts, Tips, Tricks, Resources - HTML. CSS. JavaScript.\nLoved both fiction and non-fiction books .",
+            "profile_background_image_url": null,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1503726510834057216/fSjlOsGc_normal.jpg",
+            "followers_count": 3471,
+            "friends_count": 216
+        },
+        "title": "Javascriptを書籍で学ぶ",
+        "supplement": "書籍からの情報はネットの情報よりも確実性が高いです。",
+        "ja_text": "2.本-\n\nJavaScriptをすばやく学びたい人は、以下の本が特に役立つでしょう。\n\n+Ja…https：//t.co/PUSQfg45eu"
+    },
+    {
+        "id": 1531311992283090946,
+        "text": "1.  Self guiding Websites and courses -\n\nFlexible online courses are the perfect solution for those who want to lea… https://t.co/u0yoxJILc0",
+        "retweet_count": 3,
+        "favorite_count": 29,
+        "in_reply_to_status_id": 1531311989733007360,
+        "created_at": "Mon May 30 16:30:04 +0000 2022",
+        "user": {
+            "id": 1238703920706277380,
+            "name": "Priya_garg",
+            "screen_name": "priya_garg2",
+            "location": "India",
+            "description": "21.\nFrontend Web Developer. \nConcepts, Tips, Tricks, Resources - HTML. CSS. JavaScript.\nLoved both fiction and non-fiction books .",
+            "profile_background_image_url": null,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1503726510834057216/fSjlOsGc_normal.jpg",
+            "followers_count": 3471,
+            "friends_count": 216
+        },
+        "title": "ウェブサイトでJavascriptを学習する",
+        "supplement": "柔軟なスケジュールで学習したい方にはおすすめです。ですが教材としてよくないサイトもあるので注意が必要です。",
+        "ja_text": "1.セルフガイドのウェブサイトとコース-\n\n柔軟なオンラインコースは、リーをしたい人に最適なソリューションです…https://t.co/u0yoxJILc0"
+    },
+
+        {
+        "id": 1531311999761543168,
+        "text": "3. Bootcamps -\n\nMaybe self-learning isn't for you.\n\nFor more support and guidance throughout your educational journ… https://t.co/MApFiA093A",
+        "retweet_count": 3,
+        "favorite_count": 23,
+        "in_reply_to_status_id": 1531311997232349185,
+        "created_at": "Mon May 30 16:30:05 +0000 2022",
+        "user": {
+            "id": 1238703920706277380,
+            "name": "Priya_garg",
+            "screen_name": "priya_garg2",
+            "location": "India",
+            "description": "21.\nFrontend Web Developer. \nConcepts, Tips, Tricks, Resources - HTML. CSS. JavaScript.\nLoved both fiction and non-fiction books .",
+            "profile_background_image_url": null,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1503726510834057216/fSjlOsGc_normal.jpg",
+            "followers_count": 3471,
+            "friends_count": 216
+        },
+        "title": "ブートキャンプに参加する",
+        "supplement": "",
+        "ja_text": "3.ブートキャンプ-\n\n多分独学はあなたのためではありません。\n\n教育期間中のサポートとガイダンスについては…https：//t.co/MApFiA093A"
     },
     {
         "id": 1531312002412384256,
@@ -21,7 +90,7 @@
             "followers_count": 3471,
             "friends_count": 216
         },
-        "title": "t",
+        "title": "ネットワーキングイベントやミートアップに参加する",
         "supplement": "",
         "ja_text": "4.ネットワーキングイベントやミートアップに参加する-\n\nJavaScriptを学ぶための最良の方法を探し始めると、networ…https：//t.co/An2v8i8Hqj"
     },
@@ -43,32 +112,11 @@
             "followers_count": 3471,
             "friends_count": 216
         },
-        "title": "t",
-        "supplement": "",
+        "title": "自身のプロジェクトを作成する",
+        "supplement": "4までで培ったJavascriptの基礎を活かしてサービスを提供しましょう。",
         "ja_text": "5.独自のプロジェクトを構築する-\n\n学んだことを実践しないのなら、何がポイントですか？\n\nだから、それは最高です…https://t.co/iraGSmqQsx"
     },
-    {
-        "id": 1531311999761543168,
-        "text": "3. Bootcamps -\n\nMaybe self-learning isn't for you.\n\nFor more support and guidance throughout your educational journ… https://t.co/MApFiA093A",
-        "retweet_count": 3,
-        "favorite_count": 23,
-        "in_reply_to_status_id": 1531311997232349185,
-        "created_at": "Mon May 30 16:30:05 +0000 2022",
-        "user": {
-            "id": 1238703920706277380,
-            "name": "Priya_garg",
-            "screen_name": "priya_garg2",
-            "location": "India",
-            "description": "21.\nFrontend Web Developer. \nConcepts, Tips, Tricks, Resources - HTML. CSS. JavaScript.\nLoved both fiction and non-fiction books .",
-            "profile_background_image_url": null,
-            "profile_image_url": "http://pbs.twimg.com/profile_images/1503726510834057216/fSjlOsGc_normal.jpg",
-            "followers_count": 3471,
-            "friends_count": 216
-        },
-        "title": "t",
-        "supplement": "",
-        "ja_text": "3.ブートキャンプ-\n\n多分独学はあなたのためではありません。\n\n教育期間中のサポートとガイダンスについては…https：//t.co/MApFiA093A"
-    },
+
     {
         "id": 1531312007458172929,
         "text": "So, this is the end of thread.\n\nIf you any other best method, drop them💬👇\n\nDM me if you have any doubt.\n\nAlso , Fol… https://t.co/HC2AaonzBm",
@@ -87,54 +135,11 @@
             "followers_count": 3471,
             "friends_count": 216
         },
-        "title": "t",
+        "title": "最後に",
         "supplement": "",
         "ja_text": "だから、これはスレッドの終わりです。\n\n他の最良の方法がある場合は、それらをドロップしてください💬👇\n\n疑問がある場合はDMしてください。\n\nまた、Fol…https：//t.co/HC2AaonzBm"
     },
-    {
-        "id": 1531311997232349185,
-        "text": "2.  Books -\n\nThose who wish to learn JavaScript quickly will find the books listed below particularly useful.\n\n+ Ja… https://t.co/PUSQfg45eu",
-        "retweet_count": 4,
-        "favorite_count": 28,
-        "in_reply_to_status_id": 1531311994787143680,
-        "created_at": "Mon May 30 16:30:05 +0000 2022",
-        "user": {
-            "id": 1238703920706277380,
-            "name": "Priya_garg",
-            "screen_name": "priya_garg2",
-            "location": "India",
-            "description": "21.\nFrontend Web Developer. \nConcepts, Tips, Tricks, Resources - HTML. CSS. JavaScript.\nLoved both fiction and non-fiction books .",
-            "profile_background_image_url": null,
-            "profile_image_url": "http://pbs.twimg.com/profile_images/1503726510834057216/fSjlOsGc_normal.jpg",
-            "followers_count": 3471,
-            "friends_count": 216
-        },
-        "title": "t",
-        "supplement": "",
-        "ja_text": "2.本-\n\nJavaScriptをすばやく学びたい人は、以下の本が特に役立つでしょう。\n\n+Ja…https：//t.co/PUSQfg45eu"
-    },
-    {
-        "id": 1531311992283090946,
-        "text": "1.  Self guiding Websites and courses -\n\nFlexible online courses are the perfect solution for those who want to lea… https://t.co/u0yoxJILc0",
-        "retweet_count": 3,
-        "favorite_count": 29,
-        "in_reply_to_status_id": 1531311989733007360,
-        "created_at": "Mon May 30 16:30:04 +0000 2022",
-        "user": {
-            "id": 1238703920706277380,
-            "name": "Priya_garg",
-            "screen_name": "priya_garg2",
-            "location": "India",
-            "description": "21.\nFrontend Web Developer. \nConcepts, Tips, Tricks, Resources - HTML. CSS. JavaScript.\nLoved both fiction and non-fiction books .",
-            "profile_background_image_url": null,
-            "profile_image_url": "http://pbs.twimg.com/profile_images/1503726510834057216/fSjlOsGc_normal.jpg",
-            "followers_count": 3471,
-            "friends_count": 216
-        },
-        "title": "t",
-        "supplement": "",
-        "ja_text": "1.セルフガイドのウェブサイトとコース-\n\n柔軟なオンラインコースは、リーをしたい人に最適なソリューションです…https://t.co/u0yoxJILc0"
-    },
+
     {
         "id": 1531311994787143680,
         "text": "+ Introduction to JavaScript (By FreeCodeCamp)\n\n+ JavaScript (By The Odin Project)\n\n+ JavaScript Guide (By MDN)",
@@ -153,7 +158,7 @@
             "followers_count": 3471,
             "friends_count": 216
         },
-        "title": "t",
+        "title": "備考",
         "supplement": "",
         "ja_text": "+ JavaScriptの概要（FreeCodeCampによる）\n\n+ JavaScript（The Odin Projectによる）\n\n+ JavaScriptガイド（MDNによる）"
     },
@@ -175,7 +180,7 @@
             "followers_count": 7,
             "friends_count": 62
         },
-        "title": "t",
+        "title": "備考",
         "supplement": "",
         "ja_text": "@priya_garg2それが行うすべての奇妙なこと..https：//t.co/OAYWMkkhoD"
     }
