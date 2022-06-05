@@ -1,29 +1,8 @@
 [
     {
-        "title": "LeaVerou",
-        "id": "1530668731806158848"
-    },
-    {
-        "id": 1530671273566646272,
-        "text": "@LeaVerou This is the decision process we use : \n\nIf you want something done quickly : nodejs or deno.\n\nIf you need… https://t.co/igjuWL3Oml",
-        "retweet_count": 0,
-        "favorite_count": 15,
-        "in_reply_to_status_id": 1530668731806158848,
-        "created_at": "Sat May 28 22:04:04 +0000 2022",
-        "user": {
-            "id": 462211017,
-            "name": "Forge Libre",
-            "screen_name": "forgelibre",
-            "location": "Bretagne, France",
-            "description": "Veille technologique sur le logiciel libre.",
-            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
-            "profile_image_url": "http://pbs.twimg.com/profile_images/1750415791/inv_normal.png",
-            "followers_count": 153,
-            "friends_count": 696
-        },
-        "title": "t",
-        "supplement": "",
-        "ja_text": "@LeaVerouこれは私たちが使用する決定プロセスです：\n\n何かをすばやく実行したい場合：nodejsまたはdeno。\n\n必要な場合…https：//t.co/igjuWL3Oml"
+        "title": "バックエンドでの技術選定黄金パターン",
+        "id": "1530668731806158848",
+        "ja_text" : "以前、本格的なバックエンドプログラミングを行ったとき、ゴールドスタンダードはPHPとMySQLでした。不思議なことに、人々は今日何を使っていますか？ Node.jsは実際に人気がありますか？ RoRですか？他に何かありますか？そして、ほとんどの人はデータベースに何を使用しますか？SQLはまだ使用されていますか、それともすべてMongoDB / CouchDB / etcですか？"
     },
     {
         "id": 1530672724548407296,
@@ -43,9 +22,31 @@
             "followers_count": 118394,
             "friends_count": 1136
         },
-        "title": "t",
-        "supplement": "",
+        "title": "大規模なwebアプリケーション",
+        "supplement": "データベースをまったく必要としない可能性のあるブログや中小企業のWebサイトなどではなく、少なくとも数千のユーザーアカウントを持つサイトについて質問しています。",
         "ja_text": "私は主に、少なくとも数千のユーザーアカウントを持つサイトについて質問しています。ブログまたは中小企業のウェブサイト…https：//t.co/BGjzfwv4Ej"
+    },
+    {
+        "id": 1530671273566646272,
+        "text": "@LeaVerou This is the decision process we use : \n\nIf you want something done quickly : nodejs or deno.\n\nIf you need… https://t.co/igjuWL3Oml",
+        "retweet_count": 0,
+        "favorite_count": 15,
+        "in_reply_to_status_id": 1530668731806158848,
+        "created_at": "Sat May 28 22:04:04 +0000 2022",
+        "user": {
+            "id": 462211017,
+            "name": "Forge Libre",
+            "screen_name": "forgelibre",
+            "location": "Bretagne, France",
+            "description": "Veille technologique sur le logiciel libre.",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1750415791/inv_normal.png",
+            "followers_count": 153,
+            "friends_count": 696
+        },
+        "title": "技術選定の黄金パターン",
+        "supplement": "1.何かをすばやく実行したい場合：nodejsまたはdeno。2.強力なものが必要な場合：Django、Laravel、またはRails3. db側：クイックプロジェクト用のsqliteで十分です。そうでなければ、Postgresqlはリレーショナルの標準になりつつあります。",
+        "ja_text": "@LeaVerouこれは私たちが使用する決定プロセスです：\n\n何かをすばやく実行したい場合：nodejsまたはdeno。\n\n必要な場合…https：//t.co/igjuWL3Oml"
     },
     {
         "id": 1530669264012685312,
@@ -65,8 +66,8 @@
             "followers_count": 32,
             "friends_count": 75
         },
-        "title": "t",
-        "supplement": "",
+        "title": "PHPはしぶとく生き残る",
+        "supplement": "PHPはweb業界のしまむらという変わった二つ名をつけられもしたが、Laravelフレームワークを手に入れたことでまだまだ現役のようだ。",
         "ja_text": "@LeaVerou PHP、特にLaravelフレームワークでは引き続き強力です！\nスケーリングします！"
     }
 ]

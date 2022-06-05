@@ -1,6 +1,7 @@
 [
     {
-        "title": "BleepinComputer",
+        "title": "powershellを利用した脆弱性攻撃がwindowsのテストで発見される",
+        "description" : "この欠陥は、CVE-2021-40444を使用してファイルのVirusTotalをチェックしているときに@nao_secによって発見された",
         "id": "1531280247731240962"
     },
     {
