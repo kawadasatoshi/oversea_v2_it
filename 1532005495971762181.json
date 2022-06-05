@@ -1,0 +1,50 @@
+[
+    {
+        "title": "bnmehmetcoskun",
+        "id": "1532005495971762181"
+    },
+    {
+        "id": 1532015642899009536,
+        "text": "@bnmehmetcoskun @sabrinaesaquino But it is a programming language. It is just not imperative.",
+        "retweet_count": 0,
+        "favorite_count": 99,
+        "in_reply_to_status_id": 1532005495971762181,
+        "created_at": "Wed Jun 01 15:06:07 +0000 2022",
+        "user": {
+            "id": 1505055609649045506,
+            "name": "Alex Abreu",
+            "screen_name": "abreulan",
+            "location": "",
+            "description": "Beloved son of earth",
+            "profile_background_image_url": null,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1521155298878177280/wa2DG5rk_normal.jpg",
+            "followers_count": 4,
+            "friends_count": 52
+        },
+        "title": "t",
+        "supplement": "",
+        "ja_text": "@bnmehmetcoskun @sabrinaesaquinoしかし、それはプログラミング言語です。それは必須ではありません。"
+    },
+    {
+        "id": 1532008328020250630,
+        "text": "@bnmehmetcoskun You just made the whole tech twitter cry",
+        "retweet_count": 1,
+        "favorite_count": 308,
+        "in_reply_to_status_id": 1532005495971762181,
+        "created_at": "Wed Jun 01 14:37:03 +0000 2022",
+        "user": {
+            "id": 1442001234,
+            "name": "Sabrina",
+            "screen_name": "sabrinaesaquino",
+            "location": "Natal, Brasil",
+            "description": "🇧🇷 • Community @shakudo_io • Computer Engineer Undergrad and actually okay with AIs ruling the world • beware of shitpost",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1507103527289724934/VoqSPvpP_normal.jpg",
+            "followers_count": 23244,
+            "friends_count": 947
+        },
+        "title": "t",
+        "supplement": "",
+        "ja_text": "@bnmehmetcoskunあなたはちょうど技術ツイッター全体を泣かせました"
+    }
+]
