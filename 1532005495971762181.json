@@ -1,7 +1,8 @@
 [
     {
-        "title": "bnmehmetcoskun",
-        "id": "1532005495971762181"
+        "title": "HTMLはプログラミング言語か？",
+        "id": "1532005495971762181",
+        "supplement" : "HTMLはプログラミング言語なのか？日本でも海外でも炎上する議題である"
     },
     {
         "id": 1532015642899009536,
@@ -21,8 +22,8 @@
             "followers_count": 4,
             "friends_count": 52
         },
-        "title": "t",
-        "supplement": "",
+        "title": "プログラミング言語である",
+        "supplement": "しかし必須ではない。",
         "ja_text": "@bnmehmetcoskun @sabrinaesaquinoしかし、それはプログラミング言語です。それは必須ではありません。"
     },
     {
@@ -43,7 +44,7 @@
             "followers_count": 23244,
             "friends_count": 947
         },
-        "title": "t",
+        "title": "HTMLをプログラミング言語だと考えるエンジニアは多い",
         "supplement": "",
         "ja_text": "@bnmehmetcoskunあなたはちょうど技術ツイッター全体を泣かせました"
     }
