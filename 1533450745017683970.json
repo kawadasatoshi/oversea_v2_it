@@ -1,0 +1,116 @@
+[
+    {
+        "title": "IAyeshaSahar",
+        "id": "1533450745017683970"
+    },
+    {
+        "id": 1533514053783527424,
+        "text": "@IAyeshaSahar This is really common in JS but is really bad practice.\nIf statements stand out as a conditional, whi… https://t.co/4WfLql2J85",
+        "retweet_count": 0,
+        "favorite_count": 17,
+        "in_reply_to_status_id": 1533450745017683970,
+        "created_at": "Sun Jun 05 18:20:16 +0000 2022",
+        "user": {
+            "id": 2603440875,
+            "name": "Graham Cox",
+            "screen_name": "grahamcox82",
+            "location": "Warwickshire",
+            "description": "Software developer, primarily Java and JVM languages but I'm not too fussy. He/him but I'll answer to anything vaguely polite.\nHusband of the amazing @mrsjlcox",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/614170606028869632/6Cz4rVt2_normal.jpg",
+            "followers_count": 435,
+            "friends_count": 754
+        },
+        "title": "t",
+        "supplement": "",
+        "ja_text": "@IAyeshaSaharこれはJSで非常に一般的ですが、実際には悪い習慣です。\nステートメントが条件付きとして目立つ場合は、…https://t.co/4WfLql2J85"
+    },
+    {
+        "id": 1533451488185286669,
+        "text": "@IAyeshaSahar Just an opinion -&gt; &amp;&amp; is in no way more readable than an if block.",
+        "retweet_count": 0,
+        "favorite_count": 25,
+        "in_reply_to_status_id": 1533450745017683970,
+        "created_at": "Sun Jun 05 14:11:39 +0000 2022",
+        "user": {
+            "id": 1451297084,
+            "name": "Abhinav Pandey ☁️",
+            "screen_name": "Abh1navv",
+            "location": "",
+            "description": "Senior Software Engineer - Spring 🍃 , Azure ☁️ \n| Technical Writer @FreeCodeCamp, @Baeldung \n| Tweets about DSA, Java ☕️, Spring 🍃 and Cloud\n| Expect Memes 🃏",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1452237424453734403/o_o7WyrV_normal.jpg",
+            "followers_count": 4393,
+            "friends_count": 371
+        },
+        "title": "t",
+        "supplement": "",
+        "ja_text": "@IAyeshaSaharただの意見-＆gt; ＆amp;＆amp; ifブロックよりも読みやすくなっています。"
+    },
+    {
+        "id": 1533450755922964481,
+        "text": "👉 It's not a rule that you should avoid if statements. But sometimes using them makes the code a lot less readable.… https://t.co/0QcRUF3FXt",
+        "retweet_count": 0,
+        "favorite_count": 31,
+        "in_reply_to_status_id": 1533450752693260288,
+        "created_at": "Sun Jun 05 14:08:45 +0000 2022",
+        "user": {
+            "id": 1428683840021803018,
+            "name": "Ayesha Sahar",
+            "screen_name": "IAyeshaSahar",
+            "location": "Pakistan",
+            "description": "Full Stack Developer 👩‍💻 | Tech Blogger✍️ Sharing tips, tricks and resources on Python, Web Development & UI/UX to make your learning journey easier✨",
+            "profile_background_image_url": null,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1532690997855002624/tgJjCTMg_normal.jpg",
+            "followers_count": 15840,
+            "friends_count": 163
+        },
+        "title": "t",
+        "supplement": "",
+        "ja_text": "👉ifステートメントを避ける必要があるのはルールではありません。ただし、それらを使用すると、コードが読みにくくなることがあります。…https://t.co/0QcRUF3FXt"
+    },
+    {
+        "id": 1533483658316759041,
+        "text": "@IAyeshaSahar You can also consider:\n\n• using a function statement over an arrow function expression\n\n• skip the cu… https://t.co/ByXUkT6wKU",
+        "retweet_count": 1,
+        "favorite_count": 60,
+        "in_reply_to_status_id": 1533450745017683970,
+        "created_at": "Sun Jun 05 16:19:29 +0000 2022",
+        "user": {
+            "id": 722160618397167617,
+            "name": "toheeb",
+            "screen_name": "ToheebDotCom",
+            "location": "Nigeria",
+            "description": "adventure with HTML, CSS,  JS, and Typography @ https://t.co/TsVTK5ikCX",
+            "profile_background_image_url": null,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1427263758238457863/zGI9PlP9_normal.jpg",
+            "followers_count": 228,
+            "friends_count": 55
+        },
+        "title": "t",
+        "supplement": "",
+        "ja_text": "@IAyeshaSahar次のことも検討できます。\n\n•矢印関数式で関数ステートメントを使用する\n\n•cuをスキップします…https：//t.co/ByXUkT6wKU"
+    },
+    {
+        "id": 1533450752693260288,
+        "text": "👉 This is too much code for checking the boolean condition and invoking the function.\n\n👉 How about we ditch the if… https://t.co/w2KVhBjCNN",
+        "retweet_count": 7,
+        "favorite_count": 61,
+        "in_reply_to_status_id": 1533450745017683970,
+        "created_at": "Sun Jun 05 14:08:44 +0000 2022",
+        "user": {
+            "id": 1428683840021803018,
+            "name": "Ayesha Sahar",
+            "screen_name": "IAyeshaSahar",
+            "location": "Pakistan",
+            "description": "Full Stack Developer 👩‍💻 | Tech Blogger✍️ Sharing tips, tricks and resources on Python, Web Development & UI/UX to make your learning journey easier✨",
+            "profile_background_image_url": null,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1532690997855002624/tgJjCTMg_normal.jpg",
+            "followers_count": 15840,
+            "friends_count": 163
+        },
+        "title": "t",
+        "supplement": "",
+        "ja_text": "👉これは、ブール条件をチェックして関数を呼び出すには多すぎるコードです。\n\n👉ifを捨てるのはどうですか…https：//t.co/w2KVhBjCNN"
+    }
+]
