@@ -9,6 +9,7 @@
         "id": "1533450752693260288",
         "ja_text" : "👉これは、ブール条件をチェックして関数を呼び出すには多すぎるコードです。 👉 AND（&& ;)演算子を使用してifステートメントを完全に破棄するのはどうですか？ 😉"
     },
+    
         "id": 1533514053783527424,
         "text": "@IAyeshaSahar This is really common in JS but is really bad practice.\nIf statements stand out as a conditional, whi… https://t.co/4WfLql2J85",
         "retweet_count": 0,
