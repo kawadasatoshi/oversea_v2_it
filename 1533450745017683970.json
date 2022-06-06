@@ -1,9 +1,14 @@
 [
     {
-        "title": "IAyeshaSahar",
-        "id": "1533450745017683970"
+        "title": "Javascriptで&&演算子と関数を並べた時の挙動",
+        "id": "1533450745017683970",
+        "ja_text" : "JavaScriptのヒント💛 ✨ ANDを使用するifステートメントの回避👉その方法を理解するために、ブール値とifステートメントを含む関数がある例を見てみましょう。"
     },
     {
+        "title": "Javascriptで&&演算子と関数を使った",
+        "id": "1533450752693260288",
+        "ja_text" : "👉これは、ブール条件をチェックして関数を呼び出すには多すぎるコードです。 👉 AND（&& ;)演算子を使用してifステートメントを完全に破棄するのはどうですか？ 😉"
+    },
         "id": 1533514053783527424,
         "text": "@IAyeshaSahar This is really common in JS but is really bad practice.\nIf statements stand out as a conditional, whi… https://t.co/4WfLql2J85",
         "retweet_count": 0,
@@ -21,8 +26,8 @@
             "followers_count": 435,
             "friends_count": 754
         },
-        "title": "t",
-        "supplement": "",
+        "title": "しかし反対意見も",
+        "supplement": "javascript特有のコードの書き方ですが、あまり評判は良くないようです",
         "ja_text": "@IAyeshaSaharこれはJSで非常に一般的ですが、実際には悪い習慣です。\nステートメントが条件付きとして目立つ場合は、…https://t.co/4WfLql2J85"
     },
     {
@@ -43,8 +48,8 @@
             "followers_count": 4393,
             "friends_count": 371
         },
-        "title": "t",
-        "supplement": "",
+        "title": "賛成派の意見もある",
+        "supplement": "if文を使った記述よりも&&演算子を使った方がいいと言う意見",
         "ja_text": "@IAyeshaSaharただの意見-＆gt; ＆amp;＆amp; ifブロックよりも読みやすくなっています。"
     },
     {
@@ -87,8 +92,8 @@
             "followers_count": 228,
             "friends_count": 55
         },
-        "title": "t",
-        "supplement": "",
+        "title": "Javascriptで関数の条件分岐をする別案",
+        "supplement": "Allow関数を使ってより直感的なコードにもできます",
         "ja_text": "@IAyeshaSahar次のことも検討できます。\n\n•矢印関数式で関数ステートメントを使用する\n\n•cuをスキップします…https：//t.co/ByXUkT6wKU"
     },
     {
@@ -109,7 +114,7 @@
             "followers_count": 15840,
             "friends_count": 163
         },
-        "title": "t",
+        "title": "",
         "supplement": "",
         "ja_text": "👉これは、ブール条件をチェックして関数を呼び出すには多すぎるコードです。\n\n👉ifを捨てるのはどうですか…https：//t.co/w2KVhBjCNN"
     }
