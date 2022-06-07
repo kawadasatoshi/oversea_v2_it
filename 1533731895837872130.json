@@ -1,0 +1,128 @@
+[
+    {
+        "title": "Javascriptの==と===の違い",
+        "id": "1533731895837872130",
+        "ja_text": "== と ===のJavascriptにおける違いを解説する",
+        "supplement": ""
+    },
+    {
+        "id": "1533731916499005441",
+        "text": "That's all for now Guys \n\nThank you for reading this 🙏\n\nIf you liked this thread, make sure to:\n\nFollow me  \n@ighmaz_js\n\nand retweet this!",
+        "retweet_count": 1,
+        "favorite_count": 32,
+        "in_reply_to_status_id": 1533731914242486276,
+        "created_at": "Mon Jun 06 08:45:58 +0000 2022",
+        "user": {
+            "id": 947567899,
+            "name": "Ighmaz ◢◤",
+            "screen_name": "ighmaz_js",
+            "location": "web3 ",
+            "description": "🚀 Frontend Developer 🧑‍💻 | Web3 🌐 |  Helping u to Master Javascript  🌱 | Freelancing | #JavaScript ❤️",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1498709476311908352/JrZW94Gm_normal.jpg",
+            "followers_count": 3814,
+            "friends_count": 245
+        },
+        "date": "2022-06-06",
+        "date2": "2022-06-07",
+        "title": "結論：===を使う方がいい",
+        "supplement": "",
+        "ja_text": "結論は===を使ってください\r\n今のところこれですべてです\r\n\r\nこれを読んでくれてありがとう🙏\r\n\r\nこのスレッドが気に入った場合は、次のことを確認してください。\r\n\r\nフォローしてください\r\n@ighmaz_js\r\n\r\nこれをリツイートしてください！"
+    },
+    {
+        "id": "1533731914242486276",
+        "text": "👉 In general “===” operator is recommended since it never does type conversion we are doing an exact comparison thu… https://t.co/7tjJCKAXdP",
+        "retweet_count": 0,
+        "favorite_count": 30,
+        "in_reply_to_status_id": 1533731911751077889,
+        "created_at": "Mon Jun 06 08:45:58 +0000 2022",
+        "user": {
+            "id": 947567899,
+            "name": "Ighmaz ◢◤",
+            "screen_name": "ighmaz_js",
+            "location": "web3 ",
+            "description": "🚀 Frontend Developer 🧑‍💻 | Web3 🌐 |  Helping u to Master Javascript  🌱 | Freelancing | #JavaScript ❤️",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1498709476311908352/JrZW94Gm_normal.jpg",
+            "followers_count": 3814,
+            "friends_count": 245
+        },
+        "date": "2022-06-06",
+        "date2": "2022-06-07",
+        "title": "Javascriptで===をお勧めする理由",
+        "supplement": "",
+        "ja_text": "👉一般的に「===」演算子をお勧めします。\r\nなぜなら、型変換は行われないため、正確な比較を行うことができるからです。"
+    },
+    {
+        "id": "1533731911751077889",
+        "text": "👉 The ‘==’ operator tests for abstract equality,it does the necessary type conversions before doing the equality co… https://t.co/GZ1P7Pq2NX",
+        "retweet_count": 3,
+        "favorite_count": 41,
+        "in_reply_to_status_id": 1533731908668260352,
+        "created_at": "Mon Jun 06 08:45:57 +0000 2022",
+        "user": {
+            "id": 947567899,
+            "name": "Ighmaz ◢◤",
+            "screen_name": "ighmaz_js",
+            "location": "web3 ",
+            "description": "🚀 Frontend Developer 🧑‍💻 | Web3 🌐 |  Helping u to Master Javascript  🌱 | Freelancing | #JavaScript ❤️",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1498709476311908352/JrZW94Gm_normal.jpg",
+            "followers_count": 3814,
+            "friends_count": 245
+        },
+        "date": "2022-06-06",
+        "date2": "2022-06-07",
+        "title": "一方Javascriptの\"==\"では",
+        "supplement": "",
+        "ja_text": "👉‘==’演算子は抽象的等式をテストし、等式を実行する前に必要な型変換を行います。\r\n"
+    },
+    {
+        "id": "1533731908668260352",
+        "text": "☑️ Strict equality === checks that two values are the same or not.\n\n👉 Compares equality of two operands with their… https://t.co/SJ6O5pmQgz",
+        "retweet_count": 3,
+        "favorite_count": 60,
+        "in_reply_to_status_id": 1533731902259351552,
+        "created_at": "Mon Jun 06 08:45:57 +0000 2022",
+        "user": {
+            "id": 947567899,
+            "name": "Ighmaz ◢◤",
+            "screen_name": "ighmaz_js",
+            "location": "web3 ",
+            "description": "🚀 Frontend Developer 🧑‍💻 | Web3 🌐 |  Helping u to Master Javascript  🌱 | Freelancing | #JavaScript ❤️",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1498709476311908352/JrZW94Gm_normal.jpg",
+            "followers_count": 3814,
+            "friends_count": 245
+        },
+        "date": "2022-06-06",
+        "date2": "2022-06-07",
+        "title": "Javascriptでの\"===\"の挙動",
+        "supplement": "==で許可していた 9==\"9\"も、 ===ではしっかりとfalseになる。\r\nこのように、意図しない型変換を行わない===はJavascriptでは標準的な等号である。",
+        "ja_text": "☑️厳密な等式===2つの値が同じかどうかをチェックします。\r\n"
+    },
+    {
+        "id": "1533731902259351552",
+        "text": "☑️ The == operator is an equality operator. \n\n👉 It checks whether its two operands are the same or not by changing… https://t.co/bSPSdBR5z3",
+        "retweet_count": 1,
+        "favorite_count": 64,
+        "in_reply_to_status_id": 1533731895837872130,
+        "created_at": "Mon Jun 06 08:45:55 +0000 2022",
+        "user": {
+            "id": 947567899,
+            "name": "Ighmaz ◢◤",
+            "screen_name": "ighmaz_js",
+            "location": "web3 ",
+            "description": "🚀 Frontend Developer 🧑‍💻 | Web3 🌐 |  Helping u to Master Javascript  🌱 | Freelancing | #JavaScript ❤️",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1498709476311908352/JrZW94Gm_normal.jpg",
+            "followers_count": 3814,
+            "friends_count": 245
+        },
+        "date": "2022-06-06",
+        "date2": "2022-06-07",
+        "title": "Javascriptの==での具体的な挙動",
+        "supplement": "例えば、上記のような数値と文字列の比較も等しいとしてしまうことがある。\r\nこれは数値を文字列に変換した後で比較を行なってしまうからである。",
+        "ja_text": "☑️==演算子は等式演算子です。\r\n\r\n👉変更することにより、2つのオペランドが同じかどうかをチェックします。"
+    }
+]
