@@ -1,0 +1,54 @@
+[
+    {
+        "title": "gambhir_sharma",
+        "id": "1533487781921443842"
+    },
+    {
+        "id": 1533490328715415554,
+        "text": "@gambhir_sharma @abeltxor She's just 7",
+        "retweet_count": 0,
+        "favorite_count": 20,
+        "in_reply_to_status_id": 1533487781921443842,
+        "created_at": "Sun Jun 05 16:45:59 +0000 2022",
+        "user": {
+            "id": 1430930044428308483,
+            "name": "Sharath",
+            "screen_name": "sharathkrml",
+            "location": "Remote",
+            "description": "Web3 🚀 •  Web Dev 👨‍💻 • JavaScript, Solidity & TypeScript  • React & Next.js • Open for Opportunities",
+            "profile_background_image_url": null,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1508494301637931008/k7HNthXX_normal.jpg",
+            "followers_count": 4710,
+            "friends_count": 993
+        },
+        "date": "2022-06-05",
+        "date2": "2022-06-06",
+        "title": "t",
+        "supplement": "",
+        "ja_text": "@gambhir_sharma@abeltxor彼女はたった7歳です"
+    },
+    {
+        "id": 1533496317099769856,
+        "text": "@gambhir_sharma Aree hmare liye hai yeh to",
+        "retweet_count": 0,
+        "favorite_count": 16,
+        "in_reply_to_status_id": 1533487781921443842,
+        "created_at": "Sun Jun 05 17:09:47 +0000 2022",
+        "user": {
+            "id": 1506055005992026115,
+            "name": "Abel ✪",
+            "screen_name": "abeltxor",
+            "location": "United States",
+            "description": "Blockchain Developer @IBMBlockchain • PhD scholar @UCLA • Prev @Tesla @Netflix @Amazon • ✉️ DM's are OPEN for anyone interested in pursuing career in Web2/Web3.",
+            "profile_background_image_url": null,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1529329920974807040/V3JIxd7c_normal.jpg",
+            "followers_count": 23073,
+            "friends_count": 227
+        },
+        "date": "2022-06-05",
+        "date2": "2022-06-06",
+        "title": "t",
+        "supplement": "",
+        "ja_text": "@gambhir_sharma Aree hmare liye hai yeh to"
+    }
+]
