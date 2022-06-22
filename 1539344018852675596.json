@@ -1,0 +1,80 @@
+[
+    {
+        "title": "Github Copilotのバグ",
+        "id": "1539344018852675596",
+        "ja_text": "Copilotは、わずかにバグの多いコードを示唆する月額5ドルのティアを提供する必要があります。",
+        "supplement": "Copilotはいくつかのバグが発生するらしい。"
+    },
+    {
+        "id": "1539344468024754177",
+        "text": "@jkup And a free version which randomly put Advertisement in the code.",
+        "retweet_count": 0,
+        "favorite_count": 29,
+        "in_reply_to_status_id": 1539344018852675596,
+        "created_at": "Tue Jun 21 20:28:15 +0000 2022",
+        "user": {
+            "id": 102890150,
+            "name": "Amit Mittal",
+            "screen_name": "Ak_Mittal",
+            "location": "Bengaluru, India",
+            "description": "Web Developer at @twilio |\n #JavaScript #Reactjs @remix_run and #graphql\n\nopinions my own",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1491350751394013198/fzidtrl3_normal.jpg",
+            "followers_count": 179,
+            "friends_count": 249
+        },
+        "date": "2022-06-21",
+        "date2": "2022-06-22",
+        "title": "Github Copilotは現在は有料のみ",
+        "supplement": "Googleのような広告収入に切り替えるべきだとの声",
+        "ja_text": "@jkupそして、広告をランダムにコードに入れる無料バージョン。"
+    },
+    {
+        "id": "1539345436124893186",
+        "text": "@jkup I do this for free during code review",
+        "retweet_count": 0,
+        "favorite_count": 51,
+        "in_reply_to_status_id": 1539344018852675596,
+        "created_at": "Tue Jun 21 20:32:06 +0000 2022",
+        "user": {
+            "id": 1593171,
+            "name": "sunil pai, inc.",
+            "screen_name": "threepointone",
+            "location": "London, England",
+            "description": "⛅️ 🕹 Entscheidungsproblem \nAlt: @spitleaf (friends only). \n\nFollow @BleepingEdge for news on Edge Computing",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1506926754585526274/5xdHUvjE_normal.jpg",
+            "followers_count": 25087,
+            "friends_count": 1280
+        },
+        "date": "2022-06-21",
+        "date2": "2022-06-22",
+        "title": "Copilotはコードレビューでの使い道も",
+        "supplement": "",
+        "ja_text": "@jkupコードレビュー中にこれを無料で行います"
+    },
+    {
+        "id": "1539345674810101761",
+        "text": "@jkup I've shared this with our CEO @ashtom. Thank you for the excellent idea Jon.",
+        "retweet_count": 0,
+        "favorite_count": 19,
+        "in_reply_to_status_id": 1539344018852675596,
+        "created_at": "Tue Jun 21 20:33:03 +0000 2022",
+        "user": {
+            "id": 150664007,
+            "name": "sMyle",
+            "screen_name": "MylesBorins",
+            "location": "Toronto, Ontario",
+            "description": "He / Him | Product Management @github | @openjsf && @nodejs && @tc39 | Opinions are potentially wrong, but definitely my own",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1268041259177971712/7O7qzsRm_normal.jpg",
+            "followers_count": 18086,
+            "friends_count": 2584
+        },
+        "date": "2022-06-21",
+        "date2": "2022-06-22",
+        "title": "",
+        "supplement": "",
+        "ja_text": "@jkupこれをCEOの@ashtomと共有しました。ジョンの素晴らしいアイデアをありがとう。"
+    }
+]
