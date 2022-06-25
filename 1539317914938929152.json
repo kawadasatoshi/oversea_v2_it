@@ -1,0 +1,78 @@
+[
+    {
+        "title": "lincolixavier",
+        "id": "1539317914938929152"
+    },
+    {
+        "id": 1539327416178462722,
+        "text": "@lincolixavier + Concorrência, paralelismo\n+ Processos, threads\n+ IO bound vs CPU bound\n+ Async vs sync\n+ SQL (sim, mesmo para front-end)",
+        "retweet_count": 3,
+        "favorite_count": 66,
+        "in_reply_to_status_id": 1539317914938929152,
+        "created_at": "Tue Jun 21 19:20:29 +0000 2022",
+        "user": {
+            "id": 2873168039,
+            "name": "Takashi",
+            "screen_name": "gt_katakura",
+            "location": "",
+            "description": "Remote Software Engineering at VTEX",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/532344364727402496/vANUCkN4_normal.jpeg",
+            "followers_count": 574,
+            "friends_count": 1212
+        },
+        "date": "2022-06-21",
+        "date2": "2022-06-22",
+        "title": "t",
+        "supplement": "",
+        "ja_text": "@lincolixavier +Concorrência、paralelismo\n+ Processos、スレッド\n+IOバウンドとCPUバウンド\n+非同期vs同期\n+ SQL（sim、mesmo paraフロントエンド）"
+    },
+    {
+        "id": 1539365887865675776,
+        "text": "@lincolixavier E teste pelo amor de deus, um inferno trabalhar com dev que não sabe teste",
+        "retweet_count": 0,
+        "favorite_count": 35,
+        "in_reply_to_status_id": 1539317914938929152,
+        "created_at": "Tue Jun 21 21:53:22 +0000 2022",
+        "user": {
+            "id": 1535702350723178497,
+            "name": "Sa",
+            "screen_name": "punkypixy",
+            "location": "",
+            "description": "Faço programa por dinheiro e OpenSource também :)",
+            "profile_background_image_url": null,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1535702582249029632/Odn9P7VV_normal.jpg",
+            "followers_count": 8,
+            "friends_count": 38
+        },
+        "date": "2022-06-21",
+        "date2": "2022-06-22",
+        "title": "t",
+        "supplement": "",
+        "ja_text": "@lincolixavier E teste pelo amor de deus、um inferno trabalharcomdevquenãosabeteste"
+    },
+    {
+        "id": 1539395876145156096,
+        "text": "@lincolixavier Só galera fraca...\n@mauriciojr @realAIexandre @rponte @danianepg @tadeuzagallo @franciscosouza… https://t.co/fY6pdsOCgv",
+        "retweet_count": 0,
+        "favorite_count": 29,
+        "in_reply_to_status_id": 1537815952527704066,
+        "created_at": "Tue Jun 21 23:52:32 +0000 2022",
+        "user": {
+            "id": 48738544,
+            "name": "Hugo Marques",
+            "screen_name": "hugaomarques",
+            "location": "San Diego, CA",
+            "description": "🇧🇷 in 🇺🇸. \nSenior Software Engineer @Twitter. Previously @awscloud. \nI post about Coding, RPG and stuff. \n🐶 and 🐍 parent. \nOpinions are my own.",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1484350098289029123/sqFcXOXU_normal.jpg",
+            "followers_count": 8203,
+            "friends_count": 500
+        },
+        "date": "2022-06-21",
+        "date2": "2022-06-22",
+        "title": "t",
+        "supplement": "",
+        "ja_text": "@lincolixavierSógalerafraca..。\n@mauriciojr @realAIexandre @rponte @danianepg @tadeuzagallo@franciscosouza…https：//t.co/fY6pdsOCgv"
+    }
+]
