@@ -1,0 +1,78 @@
+[
+    {
+        "title": "catalinmpit",
+        "id": "1540228450438549504"
+    },
+    {
+        "id": 1540327560403251206,
+        "text": "@catalinmpit Sounds about right.\n\nI spend two weeks figuring out Kubernetes, and then found Google Cloud Run.\n\nHas… https://t.co/vNRynT8EnH",
+        "retweet_count": 0,
+        "favorite_count": 14,
+        "in_reply_to_status_id": 1540228450438549504,
+        "created_at": "Fri Jun 24 13:34:42 +0000 2022",
+        "user": {
+            "id": 747276551935254528,
+            "name": "B. Maynze",
+            "screen_name": "Bmaynze",
+            "location": "",
+            "description": "CEO of Bitcoin. Canadian that isn't sorry. 🍆",
+            "profile_background_image_url": null,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1490755559712178178/ue3dyq-i_normal.jpg",
+            "followers_count": 217,
+            "friends_count": 495
+        },
+        "date": "2022-06-24",
+        "date2": "2022-06-25",
+        "title": "t",
+        "supplement": "",
+        "ja_text": "@catalinmpitほぼ正しいですね。\n\n2週間かけてKubernetesを見つけてから、GoogleCloudRunを見つけました。\n\n持っている…https：//t.co/vNRynT8EnH"
+    },
+    {
+        "id": 1540336369570127875,
+        "text": "@catalinmpit I think most developers working on personal projects are trying to learn new tools and frameworks. I w… https://t.co/9wILKlYIXJ",
+        "retweet_count": 0,
+        "favorite_count": 12,
+        "in_reply_to_status_id": 1540228450438549504,
+        "created_at": "Fri Jun 24 14:09:43 +0000 2022",
+        "user": {
+            "id": 2614363726,
+            "name": "Mrinalini Sugosh",
+            "screen_name": "mrinasugosh",
+            "location": "Boston, MA",
+            "description": "she/her/hers Developer Ecosystem Manager @ DigitalOcean 👩🏻‍💻 🌎 | Speaker@DevWeek. Increasing education & diversity in Tech 🤖 Tweets=my own",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1485647582579855362/fVyQ0b5V_normal.jpg",
+            "followers_count": 209,
+            "friends_count": 520
+        },
+        "date": "2022-06-24",
+        "date2": "2022-06-25",
+        "title": "t",
+        "supplement": "",
+        "ja_text": "@catalinmpit個人的なプロジェクトに取り組んでいるほとんどの開発者は、新しいツールやフレームワークを学ぼうとしていると思います。私は…https：//t.co/9wILKlYIXJ"
+    },
+    {
+        "id": 1540385956230053898,
+        "text": "@catalinmpit I think most people are excited about these technologies and they want to learn in the process of buil… https://t.co/j9gGsns1wz",
+        "retweet_count": 1,
+        "favorite_count": 22,
+        "in_reply_to_status_id": 1540228450438549504,
+        "created_at": "Fri Jun 24 17:26:45 +0000 2022",
+        "user": {
+            "id": 260172071,
+            "name": "Tobi",
+            "screen_name": "ibot_45",
+            "location": "Cleveland, OH",
+            "description": "",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1532089165742997506/-9j28Be0_normal.jpg",
+            "followers_count": 136,
+            "friends_count": 143
+        },
+        "date": "2022-06-24",
+        "date2": "2022-06-25",
+        "title": "t",
+        "supplement": "",
+        "ja_text": "@catalinmpitほとんどの人がこれらのテクノロジーに興奮していて、構築の過程で学びたいと思っていると思います…https://t.co/j9gGsns1wz"
+    }
+]
