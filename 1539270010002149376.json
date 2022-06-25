@@ -1,0 +1,54 @@
+[
+    {
+        "title": "Docker",
+        "id": "1539270010002149376"
+    },
+    {
+        "id": 1539283243828133888,
+        "text": "@Docker Thanks for that! &lt;3 &lt;3 \nBut the tweet that is important to share is this one:\n\nhttps://t.co/b1q1qmapVx",
+        "retweet_count": 4,
+        "favorite_count": 130,
+        "in_reply_to_status_id": 1539270010002149376,
+        "created_at": "Tue Jun 21 16:24:58 +0000 2022",
+        "user": {
+            "id": 366713577,
+            "name": "Jeferson Fernando",
+            "screen_name": "badtux_",
+            "location": "The Netherlands",
+            "description": "Simples como voar! #VAIIII",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1535607896012214272/GQ7-VSVU_normal.jpg",
+            "followers_count": 24643,
+            "friends_count": 1571
+        },
+        "date": "2022-06-21",
+        "date2": "2022-06-22",
+        "title": "t",
+        "supplement": "",
+        "ja_text": "@Dockerありがとうございます！ ＆lt; 3＆lt; 3\nしかし、共有することが重要なツイートは次のとおりです。\n\nhttps://t.co/b1q1qmapVx"
+    },
+    {
+        "id": 1539283898206756866,
+        "text": "@Docker @LulaOficial &lt;3 &lt;3 &lt;3",
+        "retweet_count": 0,
+        "favorite_count": 68,
+        "in_reply_to_status_id": 1539270462743642112,
+        "created_at": "Tue Jun 21 16:27:34 +0000 2022",
+        "user": {
+            "id": 366713577,
+            "name": "Jeferson Fernando",
+            "screen_name": "badtux_",
+            "location": "The Netherlands",
+            "description": "Simples como voar! #VAIIII",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1535607896012214272/GQ7-VSVU_normal.jpg",
+            "followers_count": 24643,
+            "friends_count": 1571
+        },
+        "date": "2022-06-21",
+        "date2": "2022-06-22",
+        "title": "t",
+        "supplement": "",
+        "ja_text": "@Docker @LulaOficial＆lt; 3＆lt; 3＆lt; 3"
+    }
+]
