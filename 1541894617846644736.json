@@ -1,0 +1,54 @@
+[
+    {
+        "title": "alanhett",
+        "id": "1541894617846644736"
+    },
+    {
+        "id": 1541898251242291205,
+        "text": "@GergelyOrosz While I’m ranting, I don’t like how they lure you into “production” configurations. They’re like, if… https://t.co/7CRytWROzp",
+        "retweet_count": 0,
+        "favorite_count": 11,
+        "in_reply_to_status_id": 1541895995612618753,
+        "created_at": "Tue Jun 28 21:36:04 +0000 2022",
+        "user": {
+            "id": 2343672073,
+            "name": "Alan Hettinger",
+            "screen_name": "alanhett",
+            "location": "",
+            "description": "CPA. Full Stack Dev. Runner. Dad.",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1479906431293923328/pQJS8AHN_normal.jpg",
+            "followers_count": 610,
+            "friends_count": 707
+        },
+        "date": "2022-06-28",
+        "date2": "2022-06-29",
+        "title": "t",
+        "supplement": "",
+        "ja_text": "@GergelyOrosz私は怒鳴っていますが、彼らがあなたを「本番」構成に誘い込む方法は好きではありません。のように…https：//t.co/7CRytWROzp"
+    },
+    {
+        "id": 1541917396117495808,
+        "text": "@alanhett @GergelyOrosz Cost estimates should be everywhere, we're starting with putting them in pull requests so e… https://t.co/gKA1Tarws4",
+        "retweet_count": 0,
+        "favorite_count": 50,
+        "in_reply_to_status_id": 1541894617846644736,
+        "created_at": "Tue Jun 28 22:52:09 +0000 2022",
+        "user": {
+            "id": 22753444,
+            "name": "Ali Khajeh-Hosseini",
+            "screen_name": "AliKhajeh",
+            "location": "",
+            "description": "Co-founder of https://t.co/HRny71TEHF - trying to make sense of cloud costs 💰📉\nPreviously: PlanForCloud & AbarCloud (acquired), CircuitOps (failed). I like 🏔️⚽🏐⛷️...",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1417157741156646912/QISRz3sj_normal.jpg",
+            "followers_count": 1088,
+            "friends_count": 640
+        },
+        "date": "2022-06-28",
+        "date2": "2022-06-29",
+        "title": "t",
+        "supplement": "",
+        "ja_text": "@alanhett @GergelyOroszコスト見積もりはどこにでもあるはずです、私たちはそれらをプルリクエストに入れることから始めているので…https：//t.co/gKA1Tarws4"
+    }
+]
