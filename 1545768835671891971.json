@@ -1,0 +1,150 @@
+[
+    {
+        "title": "alexkgold",
+        "id": "1545768835671891971"
+    },
+    {
+        "id": 1545768836863086592,
+        "text": "Docker is a general tool for packaging code with its dependencies. \n\nSo in the data science world, Docker is a tool… https://t.co/3G5cTRSvtV",
+        "retweet_count": 1,
+        "favorite_count": 48,
+        "in_reply_to_status_id": 1545768835671891971,
+        "created_at": "Sat Jul 09 13:56:24 +0000 2022",
+        "user": {
+            "id": 2248976972,
+            "name": "Alex Gold",
+            "screen_name": "alexkgold",
+            "location": "Washington DC",
+            "description": "Solutions Engineering Manager @rstudio; mostly #rstats, occasionally politics and handstands. (He/Him)",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1478452880336203787/4FQmEnPY_normal.jpg",
+            "followers_count": 1324,
+            "friends_count": 294
+        },
+        "date": "2022-07-09",
+        "date2": "2022-07-10",
+        "title": "t",
+        "supplement": "",
+        "ja_text": "Dockerは、依存関係を持つコードをパッケージ化するための一般的なツールです。\n\nしたがって、データサイエンスの世界では、Dockerはツールです…https：//t.co/3G5cTRSvtV"
+    },
+    {
+        "id": 1545768840679890946,
+        "text": "When you think about reproducing an R project, there are layers of reproducibility, as you make things more reprodu… https://t.co/L3SR7Rasll",
+        "retweet_count": 0,
+        "favorite_count": 41,
+        "in_reply_to_status_id": 1545768836863086592,
+        "created_at": "Sat Jul 09 13:56:25 +0000 2022",
+        "user": {
+            "id": 2248976972,
+            "name": "Alex Gold",
+            "screen_name": "alexkgold",
+            "location": "Washington DC",
+            "description": "Solutions Engineering Manager @rstudio; mostly #rstats, occasionally politics and handstands. (He/Him)",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1478452880336203787/4FQmEnPY_normal.jpg",
+            "followers_count": 1324,
+            "friends_count": 294
+        },
+        "date": "2022-07-09",
+        "date2": "2022-07-10",
+        "title": "t",
+        "supplement": "",
+        "ja_text": "Rプロジェクトの再現について考えるとき、再現性を高めるために、再現性の層があります…https://t.co/L3SR7Rasll"
+    },
+    {
+        "id": 1545768852117757952,
+        "text": "The top layers of the reproducibility stack -- code, data, and R packages have existing tooling to reproduce. #git,… https://t.co/pDhl2lTBHG",
+        "retweet_count": 0,
+        "favorite_count": 20,
+        "in_reply_to_status_id": 1545768840679890946,
+        "created_at": "Sat Jul 09 13:56:27 +0000 2022",
+        "user": {
+            "id": 2248976972,
+            "name": "Alex Gold",
+            "screen_name": "alexkgold",
+            "location": "Washington DC",
+            "description": "Solutions Engineering Manager @rstudio; mostly #rstats, occasionally politics and handstands. (He/Him)",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1478452880336203787/4FQmEnPY_normal.jpg",
+            "followers_count": 1324,
+            "friends_count": 294
+        },
+        "date": "2022-07-09",
+        "date2": "2022-07-10",
+        "title": "t",
+        "supplement": "",
+        "ja_text": "再現性スタックの最上位層（コード、データ、およびRパッケージ）には、再現するための既存のツールがあります。 ＃git、…https：//t.co/pDhl2lTBHG"
+    },
+    {
+        "id": 1545768853690523648,
+        "text": "But those middle layers -- R versions, System Libraries, and the Operating System dependencies. Docker is a ⭐STAR⭐… https://t.co/oSfByPx8oo",
+        "retweet_count": 1,
+        "favorite_count": 32,
+        "in_reply_to_status_id": 1545768852117757952,
+        "created_at": "Sat Jul 09 13:56:28 +0000 2022",
+        "user": {
+            "id": 2248976972,
+            "name": "Alex Gold",
+            "screen_name": "alexkgold",
+            "location": "Washington DC",
+            "description": "Solutions Engineering Manager @rstudio; mostly #rstats, occasionally politics and handstands. (He/Him)",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1478452880336203787/4FQmEnPY_normal.jpg",
+            "followers_count": 1324,
+            "friends_count": 294
+        },
+        "date": "2022-07-09",
+        "date2": "2022-07-10",
+        "title": "t",
+        "supplement": "",
+        "ja_text": "ただし、これらの中間層（Rバージョン、システムライブラリ、およびオペレーティングシステムの依存関係）。 Dockerは⭐STAR⭐…https：//t.co/oSfByPx8oo"
+    },
+    {
+        "id": 1545768856261738496,
+        "text": "If you've never dealt with Docker before, here's a simple model of the states of containers and images. https://t.co/VhCHptneOQ",
+        "retweet_count": 0,
+        "favorite_count": 32,
+        "in_reply_to_status_id": 1545768853690523648,
+        "created_at": "Sat Jul 09 13:56:28 +0000 2022",
+        "user": {
+            "id": 2248976972,
+            "name": "Alex Gold",
+            "screen_name": "alexkgold",
+            "location": "Washington DC",
+            "description": "Solutions Engineering Manager @rstudio; mostly #rstats, occasionally politics and handstands. (He/Him)",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1478452880336203787/4FQmEnPY_normal.jpg",
+            "followers_count": 1324,
+            "friends_count": 294
+        },
+        "date": "2022-07-09",
+        "date2": "2022-07-10",
+        "title": "t",
+        "supplement": "",
+        "ja_text": "これまでDockerを扱ったことがない場合は、コンテナとイメージの状態の簡単なモデルを次に示します。 https://t.co/VhCHptneOQ"
+    },
+    {
+        "id": 1545768857494818816,
+        "text": "Alright, you're onboard, but how?\n\nCheck out my book DevOps 4 Data Science. It's currently in draft form, but the D… https://t.co/fB73zHglWT",
+        "retweet_count": 15,
+        "favorite_count": 132,
+        "in_reply_to_status_id": 1545768856261738496,
+        "created_at": "Sat Jul 09 13:56:29 +0000 2022",
+        "user": {
+            "id": 2248976972,
+            "name": "Alex Gold",
+            "screen_name": "alexkgold",
+            "location": "Washington DC",
+            "description": "Solutions Engineering Manager @rstudio; mostly #rstats, occasionally politics and handstands. (He/Him)",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1478452880336203787/4FQmEnPY_normal.jpg",
+            "followers_count": 1324,
+            "friends_count": 294
+        },
+        "date": "2022-07-09",
+        "date2": "2022-07-10",
+        "title": "t",
+        "supplement": "",
+        "ja_text": "さて、あなたは船上にいますが、どうやって？\n\n私の本DevOps4DataScienceをチェックしてください。現在ドラフト形式ですが、D…https：//t.co/fB73zHglWT"
+    }
+]
