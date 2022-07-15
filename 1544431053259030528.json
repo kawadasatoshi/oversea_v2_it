@@ -1,0 +1,78 @@
+[
+    {
+        "title": "bitandbang",
+        "id": "1544431053259030528"
+    },
+    {
+        "id": 1544357825492688896,
+        "text": "also it’s absurdly weird and easy to conceptually counter about because we literally already have “decentralized id… https://t.co/GarMcJrHGC",
+        "retweet_count": 0,
+        "favorite_count": 10,
+        "in_reply_to_status_id": 1544356488097009669,
+        "created_at": "Tue Jul 05 16:29:33 +0000 2022",
+        "user": {
+            "id": 622960227,
+            "name": "tierney cyren",
+            "screen_name": "bitandbang",
+            "location": "nyc",
+            "description": "they/them. Staff Developer Advocate at @twilio. prev: @microsoft. works on: @nodejs. @electronjs. @openjsf. @npmjs. prev: @tc39. web2 boomer. adhd. demiboy.",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1517668176431132673/KXQdgb9H_normal.jpg",
+            "followers_count": 18683,
+            "friends_count": 812
+        },
+        "date": "2022-07-05",
+        "date2": "2022-07-06",
+        "title": "t",
+        "supplement": "",
+        "ja_text": "また、文字通りすでに「分散型ID…https：//t.co/GarMcJrHGC"
+    },
+    {
+        "id": 1544431480188944384,
+        "text": "@bitandbang Unless someone else is running on an M1...",
+        "retweet_count": 0,
+        "favorite_count": 24,
+        "in_reply_to_status_id": 1544431053259030528,
+        "created_at": "Tue Jul 05 21:22:13 +0000 2022",
+        "user": {
+            "id": 1182563031055818752,
+            "name": "Konnor Rogers",
+            "screen_name": "RogersKonnor",
+            "location": "Providence, RI",
+            "description": "Former Medic, now Web Dev |\nDeveloper @ Microsoft |\n@bridgetownrb Maintainer |\nRails dev |\nhttps://t.co/yMs5XOyRj2\nMakin my way downtown, walking fast...",
+            "profile_background_image_url": null,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1378411826631819266/SqsgPFIe_normal.jpg",
+            "followers_count": 1121,
+            "friends_count": 905
+        },
+        "date": "2022-07-05",
+        "date2": "2022-07-06",
+        "title": "t",
+        "supplement": "",
+        "ja_text": "@bitandbang他の誰かがM1で実行されていない限り..."
+    },
+    {
+        "id": 1544437291523149824,
+        "text": ".... and @matchai decided to do this with it https://t.co/A0hLGCe7qd",
+        "retweet_count": 0,
+        "favorite_count": 25,
+        "in_reply_to_status_id": 1544437049863933953,
+        "created_at": "Tue Jul 05 21:45:19 +0000 2022",
+        "user": {
+            "id": 622960227,
+            "name": "tierney cyren",
+            "screen_name": "bitandbang",
+            "location": "nyc",
+            "description": "they/them. Staff Developer Advocate at @twilio. prev: @microsoft. works on: @nodejs. @electronjs. @openjsf. @npmjs. prev: @tc39. web2 boomer. adhd. demiboy.",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1517668176431132673/KXQdgb9H_normal.jpg",
+            "followers_count": 18683,
+            "friends_count": 812
+        },
+        "date": "2022-07-05",
+        "date2": "2022-07-06",
+        "title": "t",
+        "supplement": "",
+        "ja_text": "....そして@matchaiはそれでこれを行うことにしましたhttps://t.co/A0hLGCe7qd"
+    }
+]
