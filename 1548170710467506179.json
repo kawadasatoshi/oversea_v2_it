@@ -1,0 +1,54 @@
+[
+    {
+        "title": "8earish",
+        "id": "1548170710467506179"
+    },
+    {
+        "id": 1548267459609653249,
+        "text": "@8earish Found a bug! Great work though, need more of these! 👍👍 https://t.co/02e6rC4yxP",
+        "retweet_count": 2,
+        "favorite_count": 23,
+        "in_reply_to_status_id": 1548170710467506179,
+        "created_at": "Sat Jul 16 11:25:02 +0000 2022",
+        "user": {
+            "id": 458265888,
+            "name": "Stampy🤷‍♂️",
+            "screen_name": "stampycode",
+            "location": "Brighton, UK",
+            "description": "Husband. Dad. Security Architect. Full-stack complainer. DevSecOps💻. Make❤️not🔥. He/Him.",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1546376568771153920/BOa1NiIH_normal.jpg",
+            "followers_count": 556,
+            "friends_count": 2305
+        },
+        "date": "2022-07-16",
+        "date2": "2022-07-17",
+        "title": "t",
+        "supplement": "",
+        "ja_text": "@ 8earishバグが見つかりました！素晴らしい仕事ですが、これらをもっと必要としています！ 👍👍https：//t.co/02e6rC4yxP"
+    },
+    {
+        "id": 1548329982094557185,
+        "text": "@8earish Thanks. I inverted the colors to print and save ink. https://t.co/6oKqfmz0c5",
+        "retweet_count": 5,
+        "favorite_count": 16,
+        "in_reply_to_status_id": 1548170710467506179,
+        "created_at": "Sat Jul 16 15:33:28 +0000 2022",
+        "user": {
+            "id": 48101480,
+            "name": "Gerardo Grignoli",
+            "screen_name": "gerardo_gr",
+            "location": "",
+            "description": "Software Developer from Argentina. Creator of gsudo.",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1229787737546424321/tda3A-XJ_normal.jpg",
+            "followers_count": 223,
+            "friends_count": 817
+        },
+        "date": "2022-07-16",
+        "date2": "2022-07-17",
+        "title": "t",
+        "supplement": "",
+        "ja_text": "@8earishありがとう。インクを印刷して保存するために色を反転しました。 https://t.co/6oKqfmz0c5"
+    }
+]
