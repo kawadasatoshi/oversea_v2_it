@@ -1,0 +1,102 @@
+[
+    {
+        "title": "clcoding",
+        "id": "1550317703277060096"
+    },
+    {
+        "id": 1550414461835481088,
+        "text": "@clcoding GNU/#Linux has a \"cal\" command that can be used to print a calender. The simple command \"cal -y\" will pri… https://t.co/wRcP8UqZ5V",
+        "retweet_count": 5,
+        "favorite_count": 29,
+        "in_reply_to_status_id": 1550317703277060096,
+        "created_at": "Fri Jul 22 09:36:27 +0000 2022",
+        "user": {
+            "id": 88630069,
+            "name": "Adv. Sunil Thakare 🇮🇳 🦀",
+            "screen_name": "thakares",
+            "location": "127.0.0.1",
+            "description": "Hello World! I'm #Rustacean 🦀!\n\nSoftware Freedom Advocate & Cyber Analyst…\nGNU/#Linux, #IoT, #Rust, #Perl, #Cryptography, #Blockchain.\n\nWorking on https://t.co/cLwZ30RSuq",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1344168755459284995/K3LEMzfs_normal.jpg",
+            "followers_count": 549,
+            "friends_count": 4997
+        },
+        "date": "2022-07-22",
+        "date2": "2022-07-23",
+        "title": "t",
+        "supplement": "",
+        "ja_text": "@clcoding GNU /＃Linuxには、カレンダーの印刷に使用できる「cal」コマンドがあります。単純なコマンド「cal-y」は優先されます…https：//t.co/wRcP8UqZ5V"
+    },
+    {
+        "id": 1550418484000985088,
+        "text": "2 = 2 characters for days (Mo,Tu, etc)\n1 = 1 line (row) for each week\n8 = 8 rows for each month\n4 = 4 columns for all months of the year.",
+        "retweet_count": 21,
+        "favorite_count": 162,
+        "in_reply_to_status_id": 1550317703277060096,
+        "created_at": "Fri Jul 22 09:52:26 +0000 2022",
+        "user": {
+            "id": 1322566336367636482,
+            "name": "Python Coding",
+            "screen_name": "clcoding",
+            "location": "India",
+            "description": "Learn #python tips and tricks with code I Share your knowledge with us to help society. \nhttps://t.co/p2ridorJi8\nhttps://t.co/TQ3Mb3r5eQ",
+            "profile_background_image_url": null,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1322567643253993472/K_VrVLtx_normal.jpg",
+            "followers_count": 44241,
+            "friends_count": 132
+        },
+        "date": "2022-07-22",
+        "date2": "2022-07-23",
+        "title": "t",
+        "supplement": "",
+        "ja_text": "2 =日は2文字（Mo、Tuなど）\n1 =毎週1行（行）\n8=毎月8行\n4=その年のすべての月の4列。"
+    },
+    {
+        "id": 1550433096763379712,
+        "text": "@clcoding If You only need one month this is a code: https://t.co/HwAecarMfx",
+        "retweet_count": 1,
+        "favorite_count": 13,
+        "in_reply_to_status_id": 1550317703277060096,
+        "created_at": "Fri Jul 22 10:50:30 +0000 2022",
+        "user": {
+            "id": 120815838,
+            "name": "MECHANICAL ENGINEER",
+            "screen_name": "engineer755",
+            "location": "colombia",
+            "description": "Ingeniero interesado en: mantenimiento, software, hardware, redes sociales, idiomas, música, cine, videojuegos y política progresista.",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1209993156990771201/ejb-QVce_normal.jpg",
+            "followers_count": 2696,
+            "friends_count": 4988
+        },
+        "date": "2022-07-22",
+        "date2": "2022-07-23",
+        "title": "t",
+        "supplement": "",
+        "ja_text": "@clcoding 1か月だけ必要な場合、これはコードです：https://t.co/HwAecarMfx"
+    },
+    {
+        "id": 1550524949135335426,
+        "text": "@clcoding I wrote the code a touch differently as I can manipulate what day to use to start the calendar\nc = calend… https://t.co/hycysHvsNM",
+        "retweet_count": 1,
+        "favorite_count": 10,
+        "in_reply_to_status_id": 1550317703277060096,
+        "created_at": "Fri Jul 22 16:55:29 +0000 2022",
+        "user": {
+            "id": 35988661,
+            "name": "Mark Hanson",
+            "screen_name": "biasauth",
+            "location": "Marshall. WI",
+            "description": "Demand planner, data scientist and a former republican, sorry UWEC",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1293750979985317888/eHB2IyC5_normal.jpg",
+            "followers_count": 288,
+            "friends_count": 4667
+        },
+        "date": "2022-07-22",
+        "date2": "2022-07-23",
+        "title": "t",
+        "supplement": "",
+        "ja_text": "@clcodingカレンダーの開始に使用する曜日を操作できるため、コードの書き方を少し変えました。\nc=カレンダー…https：//t.co/hycysHvsNM"
+    }
+]
