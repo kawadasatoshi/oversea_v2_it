@@ -1,0 +1,54 @@
+[
+    {
+        "title": "AKinkhabwala",
+        "id": "1550218866931924992"
+    },
+    {
+        "id": 1549953306382012416,
+        "text": "@AKinkhabwala Get him Aditi",
+        "retweet_count": 0,
+        "favorite_count": 33,
+        "in_reply_to_status_id": 1549813277127020545,
+        "created_at": "Thu Jul 21 03:03:59 +0000 2022",
+        "user": {
+            "id": 769405857759129600,
+            "name": "SteelerNation",
+            "screen_name": "SteeIerNation",
+            "location": "IG @steelernationcom",
+            "description": "The official Twitter of https://t.co/fzFcM8XtU9. Visit our website for all of your #Steelers fan needs. Follow our podcast @_SNPodcast!",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1235673915156029440/dCV22g9g_normal.jpg",
+            "followers_count": 159599,
+            "friends_count": 3348
+        },
+        "date": "2022-07-21",
+        "date2": "2022-07-22",
+        "title": "t",
+        "supplement": "",
+        "ja_text": "@AKinkhabwala彼にアディティをゲット"
+    },
+    {
+        "id": 1550255945548267522,
+        "text": "@AKinkhabwala @CBSSports @WeNeedToTalk Congrats Aditi!!",
+        "retweet_count": 0,
+        "favorite_count": 11,
+        "in_reply_to_status_id": 1550218866931924992,
+        "created_at": "Thu Jul 21 23:06:34 +0000 2022",
+        "user": {
+            "id": 28584781,
+            "name": "Jake Trotter",
+            "screen_name": "Jake_Trotter",
+            "location": "Cleveland, Ohio",
+            "description": "I cover the Cleveland Browns for ESPN",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1049840772223291393/6oZKmssu_normal.jpg",
+            "followers_count": 88322,
+            "friends_count": 723
+        },
+        "date": "2022-07-21",
+        "date2": "2022-07-22",
+        "title": "t",
+        "supplement": "",
+        "ja_text": "@AKinkhabwala @CBSSports@WeNeedToTalkおめでとうアディティ!!"
+    }
+]
