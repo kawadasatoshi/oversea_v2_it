@@ -1,0 +1,54 @@
+[
+    {
+        "title": "ChrisWillcoxSTL",
+        "id": "1550234134609633282"
+    },
+    {
+        "id": 1550133997971259392,
+        "text": "@ChrisWillcoxSTL @thrasherxy This isn't karma though. It's just the law of averages!",
+        "retweet_count": 0,
+        "favorite_count": 15,
+        "in_reply_to_status_id": 1550132482703429636,
+        "created_at": "Thu Jul 21 15:01:59 +0000 2022",
+        "user": {
+            "id": 23647190,
+            "name": "atlantic triangle",
+            "screen_name": "atlantictriangl",
+            "location": "",
+            "description": "",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1212117334/scribblebubble_normal.jpg",
+            "followers_count": 58,
+            "friends_count": 102
+        },
+        "date": "2022-07-21",
+        "date2": "2022-07-22",
+        "title": "t",
+        "supplement": "",
+        "ja_text": "@ChrisWillcoxSTL@thrasherxyしかしこれはカルマではありません。それは平均の法則です！"
+    },
+    {
+        "id": 1550244529701326848,
+        "text": "@ChrisWillcoxSTL @Java_jigga Helping the Horn of Africa and the Sahel combat islamists is actually good",
+        "retweet_count": 1,
+        "favorite_count": 247,
+        "in_reply_to_status_id": 1550234134609633282,
+        "created_at": "Thu Jul 21 22:21:12 +0000 2022",
+        "user": {
+            "id": 998485912366604288,
+            "name": "(((Mark Walsh))) 🗽🏳️‍🌈🐵🇺🇦",
+            "screen_name": "MarkORWalsh",
+            "location": "Wales, United Kingdom",
+            "description": "Irish/Estonian\n\nHe/him",
+            "profile_background_image_url": null,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1504378923362230273/32ZD6Xug_normal.jpg",
+            "followers_count": 346,
+            "friends_count": 4397
+        },
+        "date": "2022-07-21",
+        "date2": "2022-07-22",
+        "title": "t",
+        "supplement": "",
+        "ja_text": "@ChrisWillcoxSTL@Java_jiggaアフリカの角とサヘルの戦闘イスラム主義者を助けることは実際に良いことです"
+    }
+]
