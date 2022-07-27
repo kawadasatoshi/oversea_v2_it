@@ -1,0 +1,54 @@
+[
+    {
+        "title": "zephyr_0021",
+        "id": "1550238823061172227"
+    },
+    {
+        "id": 1550240382830743553,
+        "text": "@zephyr_0021 @GreenTextRepost you win",
+        "retweet_count": 0,
+        "favorite_count": 24,
+        "in_reply_to_status_id": 1550238823061172227,
+        "created_at": "Thu Jul 21 22:04:43 +0000 2022",
+        "user": {
+            "id": 1508958778556825613,
+            "name": "BOOST 🏳️‍⚧️",
+            "screen_name": "boost_java",
+            "location": "Fae/Faer, Demigorl",
+            "description": "they say you are what you eat.. no wonder im human. laugh everybody, cmon!",
+            "profile_background_image_url": null,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1552070482224111616/Vm5rdCHr_normal.jpg",
+            "followers_count": 66,
+            "friends_count": 95
+        },
+        "date": "2022-07-21",
+        "date2": "2022-07-22",
+        "title": "t",
+        "supplement": "",
+        "ja_text": "@zephyr_0021@GreenTextRepostあなたが勝ちます"
+    },
+    {
+        "id": 1550242630444924929,
+        "text": "@zephyr_0021 @GreenTextRepost Nah, its to late for that https://t.co/RalPoqPUrX",
+        "retweet_count": 18,
+        "favorite_count": 2775,
+        "in_reply_to_status_id": 1550238529476653056,
+        "created_at": "Thu Jul 21 22:13:39 +0000 2022",
+        "user": {
+            "id": 1228373451871838208,
+            "name": "José Francisco",
+            "screen_name": "elfrankix",
+            "location": "Monterrey, Nuevo León",
+            "description": "The Boys es la primera serie que me provoca sentimientos parecidos a cuando vi Breaking Bad, wow",
+            "profile_background_image_url": null,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1540221147999916033/6Z0Qzxuv_normal.jpg",
+            "followers_count": 31,
+            "friends_count": 499
+        },
+        "date": "2022-07-21",
+        "date2": "2022-07-22",
+        "title": "t",
+        "supplement": "",
+        "ja_text": "@ zephyr_0021 @GreenTextRepostいや、そのために遅れるhttps://t.co/RalPoqPUrX"
+    }
+]
