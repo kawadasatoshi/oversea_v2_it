@@ -1,0 +1,54 @@
+[
+    {
+        "title": "aptlearn_io",
+        "id": "1551847018577989632"
+    },
+    {
+        "id": 1551847609689686018,
+        "text": "@aptlearn_io I’ve started learning PHP on aptLearn, waiting for the project based course currently being worked on… https://t.co/n7r7D1ImXO",
+        "retweet_count": 3,
+        "favorite_count": 58,
+        "in_reply_to_status_id": 1551847018577989632,
+        "created_at": "Tue Jul 26 08:31:16 +0000 2022",
+        "user": {
+            "id": 962854045554761728,
+            "name": "Àgbà Akin",
+            "screen_name": "Kynsofficial",
+            "location": "Lagos, London ",
+            "description": "Preach & Hawk Tech, CEO @aptLearn_io, Senior Software Engineer @Swiftspeedapp. Committed to revolutionizing Africa’s tech space. 📧 ceo@aptlearn.io",
+            "profile_background_image_url": null,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1514878197292228619/Z6tYNcl4_normal.jpg",
+            "followers_count": 96170,
+            "friends_count": 255
+        },
+        "date": "2022-07-26",
+        "date2": "2022-07-27",
+        "title": "t",
+        "supplement": "",
+        "ja_text": "@aptlearn_io aptLearnでPHPの学習を開始し、現在取り組んでいるプロジェクトベースのコースを待っています…https：//t.co/n7r7D1ImXO"
+    },
+    {
+        "id": 1551858830925041664,
+        "text": "@aptlearn_io @Kynsofficial\nSir I think this thing is becoming more interesting\nWith the help of your tweet and Solo… https://t.co/zvh5IrGjtL",
+        "retweet_count": 0,
+        "favorite_count": 19,
+        "in_reply_to_status_id": 1551847018577989632,
+        "created_at": "Tue Jul 26 09:15:52 +0000 2022",
+        "user": {
+            "id": 1247333088146984960,
+            "name": "FORTUNE P.O.G",
+            "screen_name": "fortunate0629",
+            "location": "Planet Earth ",
+            "description": "",
+            "profile_background_image_url": null,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1501463565533859842/rfP2sGaV_normal.jpg",
+            "followers_count": 346,
+            "friends_count": 536
+        },
+        "date": "2022-07-26",
+        "date2": "2022-07-27",
+        "title": "t",
+        "supplement": "",
+        "ja_text": "@aptlearn_io @Kynsofficial\nサー私はこのことはもっと面白くなってきていると思います\nあなたのつぶやきとソロの助けを借りて…https：//t.co/zvh5IrGjtL"
+    }
+]
