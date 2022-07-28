@@ -1,0 +1,54 @@
+[
+    {
+        "title": "NickSinghTech",
+        "id": "1549903260408057858"
+    },
+    {
+        "id": 1549904162044928003,
+        "text": "@NickSinghTech Best free course I took when first learning: https://t.co/b7v9SvcN73",
+        "retweet_count": 55,
+        "favorite_count": 225,
+        "in_reply_to_status_id": 1549903260408057858,
+        "created_at": "Wed Jul 20 23:48:42 +0000 2022",
+        "user": {
+            "id": 15869228,
+            "name": "David Hundley",
+            "screen_name": "dkhundley",
+            "location": "Bloomington, IL",
+            "description": "Senior machine learning engineer at a Fortune 50 company, blogger, live coding streamer, girl dad. Always open to changing my mind. Opinions mine.",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1116343793312313344/-AbW0t7G_normal.jpg",
+            "followers_count": 170,
+            "friends_count": 143
+        },
+        "date": "2022-07-20",
+        "date2": "2022-07-21",
+        "title": "t",
+        "supplement": "",
+        "ja_text": "@NickSinghTech最初に学習したときに受講した最高の無料コース：https：//t.co/b7v9SvcN73"
+    },
+    {
+        "id": 1549904688992206849,
+        "text": "@NickSinghTech Meh, totally overrated.",
+        "retweet_count": 0,
+        "favorite_count": 24,
+        "in_reply_to_status_id": 1549903260408057858,
+        "created_at": "Wed Jul 20 23:50:48 +0000 2022",
+        "user": {
+            "id": 23511272,
+            "name": "Bojan Tunguz",
+            "screen_name": "tunguz",
+            "location": "United States",
+            "description": "Machine Learning at Nvidia. Kaggle Quadruple Grandmaster. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Opinions my own. AMDG",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1364232665440935946/cRy6WUM9_normal.jpg",
+            "followers_count": 53759,
+            "friends_count": 9646
+        },
+        "date": "2022-07-20",
+        "date2": "2022-07-21",
+        "title": "t",
+        "supplement": "",
+        "ja_text": "@NickSinghTech まあ、完全に過大評価されています。"
+    }
+]
