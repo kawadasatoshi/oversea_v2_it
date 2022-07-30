@@ -1,0 +1,78 @@
+[
+    {
+        "title": "PrasoonPratham",
+        "id": "1551896013522096129"
+    },
+    {
+        "id": 1551744190437920768,
+        "text": "@PrasoonPratham First                           Go\nThen                          Carbon\nNow they'll release Free 😂",
+        "retweet_count": 3,
+        "favorite_count": 16,
+        "in_reply_to_status_id": 1551534496230436864,
+        "created_at": "Tue Jul 26 01:40:19 +0000 2022",
+        "user": {
+            "id": 1021354781376327682,
+            "name": "weeblet.deso",
+            "screen_name": "ankushKun_",
+            "location": "India",
+            "description": "Hi, I am Ankush 👋\nGamedev • Webdev • Building on @desoprotocol and learning blockchain dev\nI post about cool geeky things",
+            "profile_background_image_url": null,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1538178369590030336/gbbiSDZs_normal.jpg",
+            "followers_count": 176,
+            "friends_count": 400
+        },
+        "date": "2022-07-26",
+        "date2": "2022-07-27",
+        "title": "t",
+        "supplement": "",
+        "ja_text": "@PrasoonPratham First Go\n次にカーボン\n今、彼らは無料でリリースします😂"
+    },
+    {
+        "id": 1551893504002908160,
+        "text": "Reminds me of when Google released Kotlin to replace Java for Android Dev and Go to replace C.",
+        "retweet_count": 0,
+        "favorite_count": 40,
+        "in_reply_to_status_id": 1551534496230436864,
+        "created_at": "Tue Jul 26 11:33:38 +0000 2022",
+        "user": {
+            "id": 1143955635391754240,
+            "name": "Pratham",
+            "screen_name": "PrasoonPratham",
+            "location": "",
+            "description": "18 year-old self taught programmer👨‍💻\n\n• I ❤️ Machine Learning, Math, Python, JavaScript, Web(3) Dev and everything in between.",
+            "profile_background_image_url": null,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1539669756227506176/vvKwaI9C_normal.jpg",
+            "followers_count": 146728,
+            "friends_count": 397
+        },
+        "date": "2022-07-26",
+        "date2": "2022-07-27",
+        "title": "t",
+        "supplement": "",
+        "ja_text": "Google が Kotlin をリリースして Android Dev の Java を置き換え、Go を C に置き換えたときのことを思い出します。"
+    },
+    {
+        "id": 1551921781853675521,
+        "text": "Actually, I lied, Python is better than JavaScript.\n\n🍿",
+        "retweet_count": 11,
+        "favorite_count": 167,
+        "in_reply_to_status_id": 1551896013522096129,
+        "created_at": "Tue Jul 26 13:26:00 +0000 2022",
+        "user": {
+            "id": 1143955635391754240,
+            "name": "Pratham",
+            "screen_name": "PrasoonPratham",
+            "location": "",
+            "description": "18 year-old self taught programmer👨‍💻\n\n• I ❤️ Machine Learning, Math, Python, JavaScript, Web(3) Dev and everything in between.",
+            "profile_background_image_url": null,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1539669756227506176/vvKwaI9C_normal.jpg",
+            "followers_count": 146728,
+            "friends_count": 397
+        },
+        "date": "2022-07-26",
+        "date2": "2022-07-27",
+        "title": "t",
+        "supplement": "",
+        "ja_text": "実際、私は嘘をつきました。PythonはJavaScriptよりも優れています。\n\n🍿"
+    }
+]
