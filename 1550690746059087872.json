@@ -1,0 +1,54 @@
+[
+    {
+        "title": "ShowwcaseHQ",
+        "id": "1550690746059087872"
+    },
+    {
+        "id": 1550814528824295424,
+        "text": "@ShowwcaseHQ Learn JS basics and proceed to React ASAP. You will learn alot of JavaScript while learning react",
+        "retweet_count": 1,
+        "favorite_count": 27,
+        "in_reply_to_status_id": 1550690746059087872,
+        "created_at": "Sat Jul 23 12:06:11 +0000 2022",
+        "user": {
+            "id": 1407986491238846464,
+            "name": "VicTor",
+            "screen_name": "Victormuongi",
+            "location": "Nairobi, Kenya",
+            "description": "Software Engineer..\nCoding Memes /JS tricks/Typescript/ReactJS, React Native",
+            "profile_background_image_url": null,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1510710845852028933/y1aTLVDV_normal.jpg",
+            "followers_count": 74,
+            "friends_count": 93
+        },
+        "date": "2022-07-23",
+        "date2": "2022-07-24",
+        "title": "t",
+        "supplement": "",
+        "ja_text": "@ShowwcaseHQ JSの基本を学び、できるだけ早くReactに進んでください。反応を学びながらJavaScriptをたくさん学びます"
+    },
+    {
+        "id": 1550848312005509121,
+        "text": "@ShowwcaseHQ Everyone bother to learn js before REACT. but non of them care about html and CSS",
+        "retweet_count": 0,
+        "favorite_count": 14,
+        "in_reply_to_status_id": 1550690746059087872,
+        "created_at": "Sat Jul 23 14:20:25 +0000 2022",
+        "user": {
+            "id": 446121107,
+            "name": "hd",
+            "screen_name": "hdkar17",
+            "location": "",
+            "description": "#BelongsToTamilianStock #js #angular #programming",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1391705743741505536/5xufu1ed_normal.jpg",
+            "followers_count": 284,
+            "friends_count": 1666
+        },
+        "date": "2022-07-23",
+        "date2": "2022-07-24",
+        "title": "t",
+        "supplement": "",
+        "ja_text": "@ShowwcaseHQ誰もがREACTの前にjsを学ぶことをわざわざします。しかし、それらのどれもhtmlとCSSを気にしません"
+    }
+]
