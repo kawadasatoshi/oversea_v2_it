@@ -1,0 +1,54 @@
+[
+    {
+        "title": "iamdevloper",
+        "id": "1551185479671980032"
+    },
+    {
+        "id": 1551185796123840512,
+        "text": "@iamdevloper And fix printers",
+        "retweet_count": 0,
+        "favorite_count": 28,
+        "in_reply_to_status_id": 1551185479671980032,
+        "created_at": "Sun Jul 24 12:41:28 +0000 2022",
+        "user": {
+            "id": 22241406,
+            "name": "David Woakes 🇺🇦💙💙💙 🇨🇦🇬🇧🏴󠁧󠁢󠁳󠁣󠁴󠁿🇪🇺",
+            "screen_name": "woakesd",
+            "location": "Toronto",
+            "description": "Dad, first and foremost. C#, Python & SQL Server Developer. Laser sailor.",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/749881102479855616/BT-NAM7K_normal.jpg",
+            "followers_count": 135,
+            "friends_count": 728
+        },
+        "date": "2022-07-24",
+        "date2": "2022-07-25",
+        "title": "t",
+        "supplement": "",
+        "ja_text": "@iamdevloperそしてプリンターを修正する"
+    },
+    {
+        "id": 1551187407466336256,
+        "text": "@iamdevloper Definitely not the only career that requires this. Being a classical musician (my previous career) is… https://t.co/M2pX6SoSV5",
+        "retweet_count": 1,
+        "favorite_count": 84,
+        "in_reply_to_status_id": 1551185479671980032,
+        "created_at": "Sun Jul 24 12:47:52 +0000 2022",
+        "user": {
+            "id": 14218895,
+            "name": "Helen Anne Gregory",
+            "screen_name": "helengregory",
+            "location": "Wigan, England",
+            "description": "Mental Health Blogger, Mezzo Soprano, Scrum Master, Life Coach, Photographer, Yorkshire Lass, Bipolar. Loves Cats, Chicago Bears, Gym. 7w8 Sp/Sx ENFP, (she/her)",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1540076074624864261/h_mnhSwU_normal.jpg",
+            "followers_count": 2237,
+            "friends_count": 2524
+        },
+        "date": "2022-07-24",
+        "date2": "2022-07-25",
+        "title": "t",
+        "supplement": "",
+        "ja_text": "@iamdevloperこれを必要とする唯一のキャリアではありません。クラシック音楽家であること（私の前職）は… https://t.co/M2pX6SoSV5"
+    }
+]
